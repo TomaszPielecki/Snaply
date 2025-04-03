@@ -1,0 +1,146 @@
+{% extends "base.html" %}
+
+{% block title %}Manage Domains{% endblock %}
+
+{% block page_id %}domains{% endblock %}
+
+{% block content %}
+<div class="container">
+    <h1 class="page-title">Manage Domains</h1>
+    
+    <div class="card">
+        <div class="card-header">
+            <h2>Add New Domain</h2>
+        </div>
+        <div class="card-body">
+            <form method="POST" action="{{ url_for('manage_domains') }}">
+                {{ add_domain_form.hidden_tag() }}
+                <div class="form-group">
+                    <label class="form-label" for="new_domain">Domain Name</label>
+                    {{ add_domain_form.new_domain(class="form-control", placeholder="example.com") }}
+                    <small class="form-text text-muted">Enter a valid domain name (e.g., example.com)</small>
+                    {% if add_domain_form.new_domain.errors %}
+                        {% for error in add_domain_form.new_domain.errors %}
+                            <span class="text-danger">{{ error }}</span>
+                        {% endfor %}
+                    {% endif %}
+                </div>
+                {{ add_domain_form.submit(class="btn btn-primary") }}
+            </form>
+        </div>
+    </div>
+    
+    <div class="card mt-4">
+        <div class="card-header">
+            <h2>Domain List</h2>
+            <div class="search-box">
+                <input type="text" id="searchDomain" placeholder="Search domains..." class="form-control">
+                <i class="fas fa-search"></i>
+            </div>
+        </div>
+        <div class="card-body">
+            {% if domains %}
+                <table class="table">
+                    <thead>
+                        <tr>
+                            <th>Domain Name</th>
+                            <th>Actions</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        {% for domain in domains %}
+                        <tr class="domain-row" data-domain="{{ domain }}">
+                            <td>{{ domain }}</td>
+                            <td>
+                                <div class="action-buttons">
+                                    <button onclick="takeScreenshot('{{ domain }}', 'desktop')" class="btn btn-sm" title="Desktop Screenshot">
+                                        <i class="fas fa-desktop"></i>
+                                    </button>
+                                    <button onclick="takeScreenshot('{{ domain }}', 'mobile')" class="btn btn-sm" title="Mobile Screenshot">
+                                        <i class="fas fa-mobile-alt"></i>
+                                    </button>
+                                    <a href="{{ url_for('edit_domain', old_domain=domain) }}" class="btn btn-sm btn-secondary" title="Edit">
+                                        <i class="fas fa-edit"></i>
+                                    </a>
+                                    <form method="POST" action="{{ url_for('delete_domain', domain=domain) }}" class="d-inline" 
+                                          onsubmit="return confirm('Are you sure you want to delete this domain?')">
+                                        <button type="submit" class="btn btn-sm btn-danger" title="Delete">
+                                            <i class="fas fa-trash"></i>
+                                        </button>
+                                    </form>
+                                </div>
+                            </td>
+                        </tr>
+                        {% endfor %}
+                    </tbody>
+                </table>
+            {% else %}
+                <div class="empty-state">
+                    <i class="fas fa-globe fa-4x"></i>
+                    <p>No domains found</p>
+                    <p class="hint">Add your first domain using the form above</p>
+                </div>
+            {% endif %}
+        </div>
+    </div>
+</div>
+
+<script>
+document.addEventListener('DOMContentLoaded', function() {
+    // Domain search filter
+    const searchInput = document.getElementById('searchDomain');
+    if (searchInput) {
+        searchInput.addEventListener('input', function() {
+            const searchTerm = this.value.toLowerCase().trim();
+            const domainRows = document.querySelectorAll('.domain-row');
+            
+            domainRows.forEach(row => {
+                const domain = row.getAttribute('data-domain').toLowerCase();
+                if (domain.includes(searchTerm)) {
+                    row.style.display = '';
+                } else {
+                    row.style.display = 'none';
+                }
+            });
+        });
+    }
+
+    // Function to take screenshots
+    window.takeScreenshot = function(domain, deviceType) {
+        if (window.vueInstance) {
+            window.vueInstance.startScreenshot(domain, deviceType);
+        } else if (window.app && window.app._instance) {
+            window.app._instance.proxy.startScreenshot(domain, deviceType);
+        } else {
+            console.warn('Vue instance not available');
+            alert('Could not process screenshot request. Please try refreshing the page.');
+        }
+    };
+});
+</script>
+
+<style>
+.action-buttons {
+    display: flex;
+    gap: 5px;
+}
+
+.search-box {
+    position: relative;
+    max-width: 250px;
+    margin-left: auto;
+}
+
+.search-box input {
+    padding-left: 30px;
+}
+
+.search-box i {
+    position: absolute;
+    left: 10px;
+    top: 50%;
+    transform: translateY(-50%);
+    color: #666;
+}
+</style>
+{% endblock %}

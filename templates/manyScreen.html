@@ -1,0 +1,121 @@
+{% extends "base.html" %}
+
+{% block content %}
+<div class="container">
+    <h1 class="text-center mb-4">Take Screenshots of Multiple URLs</h1>
+    <form id="screenshotForm" class="mb-4">
+        <div class="mb-3">
+            <label for="urls" class="form-label">Enter URLs (one per line):</label>
+            <textarea id="urls" class="form-control" rows="5"
+                      placeholder="https://example.com\nhttps://another-example.com" required></textarea>
+        </div>
+        <div class="mb-3">
+            <label for="deviceType" class="form-label">Select Device Type:</label>
+            <select id="deviceType" class="form-select" required>
+                <option value="desktop">Desktop</option>
+                <option value="mobile">Mobile</option>
+            </select>
+        </div>
+        <button type="submit" class="btn btn-primary">Take Screenshots</button>
+    </form>
+
+    <div id="progress-section" class="mt-4" style="display: none;">
+        <h4>Progress:</h4>
+        <div class="progress mb-3">
+            <div id="progress-bar" class="progress-bar" role="progressbar" style="width: 0%;">0%</div>
+        </div>
+        <p id="status-message"></p>
+        <p id="time-elapsed"></p>
+    </div>
+
+    <div id="result" class="result"></div>
+</div>
+
+<script>
+    document.getElementById('screenshotForm').addEventListener('submit', async (e) => {
+        e.preventDefault();
+
+        const urls = document.getElementById('urls').value.split('\n').map(url => url.trim()).filter(url => url);
+        const deviceType = document.getElementById('deviceType').value;
+        const resultDiv = document.getElementById('result');
+        const progressSection = document.getElementById('progress-section');
+        const progressBar = document.getElementById('progress-bar');
+        const statusMessage = document.getElementById('status-message');
+        const timeElapsed = document.getElementById('time-elapsed');
+
+        resultDiv.innerHTML = '<p class="text-muted">Processing...</p>';
+        progressSection.style.display = 'block';
+        progressBar.style.width = '0%';
+        progressBar.innerText = '0%';
+        statusMessage.innerText = 'Starting process...';
+        timeElapsed.innerText = '';
+
+        const startTime = new Date().getTime();
+
+        if (urls.length === 0) {
+            resultDiv.innerHTML = '<div class="alert alert-danger">Please provide at least one URL.</div>';
+            return;
+        }
+
+        const urlPattern = /^(https?:\/\/)?([a-zA-Z0-9-]+\.)+[a-zA-Z]{2,}(\/.*)?$/;
+        for (const url of urls) {
+            if (!urlPattern.test(url)) {
+                resultDiv.innerHTML = `<div class="alert alert-danger">Invalid URL: ${url}</div>`;
+                return;
+            }
+        }
+
+        try {
+            const response = await fetch('/screenshot', {
+                method: 'POST',
+                headers: {
+                    'Content-Type': 'application/json',
+                },
+                body: JSON.stringify({ urls, deviceType }),
+            });
+
+            if (!response.ok) {
+                const errorText = await response.text();
+                throw new Error(`Server returned an error: ${errorText}`);
+            }
+
+            const data = await response.json();
+
+            if (!Array.isArray(data.screenshots)) {
+                resultDiv.innerHTML = '<div class="alert alert-danger">No screenshots were generated.</div>';
+                return;
+            }
+
+            resultDiv.innerHTML = '<h4>Results:</h4>';
+            data.screenshots.forEach((screenshot, index) => {
+                resultDiv.innerHTML += `
+                    <div class="mb-3">
+                        <p>Screenshot ${index + 1}:</p>
+                        <img src="${screenshot}" alt="Screenshot ${index + 1}" class="img-fluid">
+                        <a href="${screenshot}" target="_blank" class="btn btn-secondary">View Screen</a>
+                    </div>
+                `;
+            });
+
+            const endTime = new Date().getTime();
+            const timeElapsedValue = ((endTime - startTime) / 1000).toFixed(2);
+            statusMessage.innerText = 'Screenshots completed!';
+            timeElapsed.innerText = `Time taken: ${timeElapsedValue} seconds`;
+
+        } catch (error) {
+            console.error(error);
+            resultDiv.innerHTML = `<div class="alert alert-danger">An error occurred: ${error.message}</div>`;
+        }
+    });
+
+    function updateProgress(completed, total) {
+        const progress = (completed / total) * 100;
+        progressBar.style.width = `${progress}%`;
+        progressBar.innerText = `${Math.round(progress)}%`;
+
+        if (completed < total) {
+            statusMessage.innerText = `Processing... (${completed}/${total})`;
+        }
+    }
+</script>
+{% endblock %}

@@ -1,0 +1,608 @@
+INFO - Accessed dashboard
+2025-03-26 17:00:28,458 - INFO - 127.0.0.1 - - [26/Mar/2025 17:00:28] "[36mGET /static/images/placeholder.png HTTP/1.1[0m" 304 -
+2025-03-26 17:00:28,377 - INFO - 127.0.0.1 - - [26/Mar/2025 17:00:28] "[36mGET /static/css/animations.css HTTP/1.1[0m" 304 -
+2025-03-26 17:00:28,377 - INFO - 127.0.0.1 - - [26/Mar/2025 17:00:28] "[33mGET /static/screenshots/mobile/main_page_mobile.png HTTP/1.1[0m" 404 -
+2025-03-26 17:00:28,376 - INFO - 127.0.0.1 - - [26/Mar/2025 17:00:28] "[36mGET /static/styles/main.css HTTP/1.1[0m" 304 -
+2025-03-26 17:00:28,373 - INFO - 127.0.0.1 - - [26/Mar/2025 17:00:28] "[36mGET /static/styles/style.css HTTP/1.1[0m" 304 -
+2025-03-26 17:00:28,327 - INFO - 127.0.0.1 - - [26/Mar/2025 17:00:28] "GET / HTTP/1.1" 200 -
+INFO - Accessed dashboard
+2025-03-26 16:59:58,261 - INFO - 127.0.0.1 - - [26/Mar/2025 16:59:58] "[36mGET /static/css/animations.css HTTP/1.1[0m" 304 -
+2025-03-26 16:59:58,259 - INFO - 127.0.0.1 - - [26/Mar/2025 16:59:58] "[36mGET /static/styles/main.css HTTP/1.1[0m" 304 -
+2025-03-26 16:59:58,259 - INFO - 127.0.0.1 - - [26/Mar/2025 16:59:58] "[36mGET /static/styles/style.css HTTP/1.1[0m" 304 -
+2025-03-26 16:59:58,177 - INFO - 127.0.0.1 - - [26/Mar/2025 16:59:58] "GET /filtrScreen HTTP/1.1" 200 -
+2025-03-26 16:59:57,421 - INFO - 127.0.0.1 - - [26/Mar/2025 16:59:57] "[36mGET /static/css/animations.css HTTP/1.1[0m" 304 -
+2025-03-26 16:59:57,415 - INFO - 127.0.0.1 - - [26/Mar/2025 16:59:57] "[36mGET /static/styles/main.css HTTP/1.1[0m" 304 -
+2025-03-26 16:59:57,414 - INFO - 127.0.0.1 - - [26/Mar/2025 16:59:57] "[36mGET /static/styles/style.css HTTP/1.1[0m" 304 -
+2025-03-26 16:59:57,366 - INFO - 127.0.0.1 - - [26/Mar/2025 16:59:57] "GET /manyScreen HTTP/1.1" 200 -
+2025-03-26 16:59:55,207 - INFO - 127.0.0.1 - - [26/Mar/2025 16:59:55] "[36mGET /static/css/animations.css HTTP/1.1[0m" 304 -
+2025-03-26 16:59:55,206 - INFO - 127.0.0.1 - - [26/Mar/2025 16:59:55] "[36mGET /static/styles/main.css HTTP/1.1[0m" 304 -
+2025-03-26 16:59:55,199 - INFO - 127.0.0.1 - - [26/Mar/2025 16:59:55] "[36mGET /static/styles/style.css HTTP/1.1[0m" 304 -
+2025-03-26 16:59:55,148 - INFO - 127.0.0.1 - - [26/Mar/2025 16:59:55] "GET /manage_pages HTTP/1.1" 200 -
+2025-03-26 16:59:54,000 - INFO - 127.0.0.1 - - [26/Mar/2025 16:59:54] "[36mGET /static/images/placeholder.png HTTP/1.1[0m" 304 -
+2025-03-26 16:59:53,976 - INFO - 127.0.0.1 - - [26/Mar/2025 16:59:53] "[36mGET /static/css/animations.css HTTP/1.1[0m" 304 -
+2025-03-26 16:59:53,976 - INFO - 127.0.0.1 - - [26/Mar/2025 16:59:53] "[33mGET /static/screenshots/mobile/main_page_mobile.png HTTP/1.1[0m" 404 -
+2025-03-26 16:59:53,974 - INFO - 127.0.0.1 - - [26/Mar/2025 16:59:53] "[36mGET /static/styles/main.css HTTP/1.1[0m" 304 -
+2025-03-26 16:59:53,972 - INFO - 127.0.0.1 - - [26/Mar/2025 16:59:53] "[36mGET /static/styles/style.css HTTP/1.1[0m" 304 -
+2025-03-26 16:59:53,935 - INFO - 127.0.0.1 - - [26/Mar/2025 16:59:53] "GET / HTTP/1.1" 200 -
+INFO - Accessed dashboard
+2025-03-26 16:59:49,188 - INFO - 127.0.0.1 - - [26/Mar/2025 16:59:49] "[36mGET /static/images/placeholder.png HTTP/1.1[0m" 304 -
+2025-03-26 16:59:49,158 - INFO - 127.0.0.1 - - [26/Mar/2025 16:59:49] "[36mGET /static/css/animations.css HTTP/1.1[0m" 304 -
+2025-03-26 16:59:49,157 - INFO - 127.0.0.1 - - [26/Mar/2025 16:59:49] "[33mGET /static/screenshots/mobile/main_page_mobile.png HTTP/1.1[0m" 404 -
+2025-03-26 16:59:49,155 - INFO - 127.0.0.1 - - [26/Mar/2025 16:59:49] "[36mGET /static/styles/main.css HTTP/1.1[0m" 304 -
+2025-03-26 16:59:49,153 - INFO - 127.0.0.1 - - [26/Mar/2025 16:59:49] "[36mGET /static/styles/style.css HTTP/1.1[0m" 304 -
+2025-03-26 16:59:49,108 - INFO - 127.0.0.1 - - [26/Mar/2025 16:59:49] "GET / HTTP/1.1" 200 -
+INFO - Accessed dashboard
+2025-03-26 16:59:10,922 - INFO - 127.0.0.1 - - [26/Mar/2025 16:59:10] "[36mGET /static/css/animations.css HTTP/1.1[0m" 304 -
+2025-03-26 16:59:10,915 - INFO - 127.0.0.1 - - [26/Mar/2025 16:59:10] "[36mGET /static/styles/main.css HTTP/1.1[0m" 304 -
+2025-03-26 16:59:10,913 - INFO - 127.0.0.1 - - [26/Mar/2025 16:59:10] "[36mGET /static/styles/style.css HTTP/1.1[0m" 304 -
+2025-03-26 16:59:10,839 - INFO - 127.0.0.1 - - [26/Mar/2025 16:59:10] "GET /manyScreen HTTP/1.1" 200 -
+2025-03-26 16:59:07,734 - INFO - Found 7 links on page http://katarzynakobiela.pl
+2025-03-26 16:59:07,734 - INFO - Skipping mailto link: mailto:kasiakobiela.kk@gmail.com
+2025-03-26 16:59:07,715 - INFO - Skipping link (external domain): https://instagram.com/katarzynakobiela_stylist
+2025-03-26 16:59:06,428 - INFO - 127.0.0.1 - - [26/Mar/2025 16:59:06] "[33mGET /static/screenshots/mobile/main_page_mobile.png HTTP/1.1[0m" 404 -
+2025-03-26 16:58:53,320 - INFO - Driver [C:\Users\tomas\.wdm\drivers\chromedriver\win64\134.0.6998.165\chromedriver-win32/chromedriver.exe] found in cache
+2025-03-26 16:58:53,070 - INFO - Get LATEST chromedriver version for google-chrome
+2025-03-26 16:58:52,799 - INFO - Get LATEST chromedriver version for google-chrome
+2025-03-26 16:58:50,308 - INFO - ====== WebDriver manager ======
+2025-03-26 16:58:50,304 - INFO - 127.0.0.1 - - [26/Mar/2025 16:58:50] "[35m[1mPOST /zrobscreen HTTP/1.1[0m" 202 -
+INFO - Starting screenshot task for http://katarzynakobiela.pl on mobile
+2025-03-26 16:58:44,751 - INFO - 127.0.0.1 - - [26/Mar/2025 16:58:44] "[36mGET /static/images/placeholder.png HTTP/1.1[0m" 304 -
+2025-03-26 16:58:44,739 - INFO - 127.0.0.1 - - [26/Mar/2025 16:58:44] "[36mGET /static/css/animations.css HTTP/1.1[0m" 304 -
+2025-03-26 16:58:44,738 - INFO - 127.0.0.1 - - [26/Mar/2025 16:58:44] "[33mGET /static/screenshots/mobile/main_page_mobile.png HTTP/1.1[0m" 404 -
+2025-03-26 16:58:44,737 - INFO - 127.0.0.1 - - [26/Mar/2025 16:58:44] "[36mGET /static/styles/main.css HTTP/1.1[0m" 304 -
+2025-03-26 16:58:44,736 - INFO - 127.0.0.1 - - [26/Mar/2025 16:58:44] "[36mGET /static/styles/style.css HTTP/1.1[0m" 304 -
+2025-03-26 16:58:44,684 - INFO - 127.0.0.1 - - [26/Mar/2025 16:58:44] "GET / HTTP/1.1" 200 -
+INFO - User admin initiated screenshots task 5100f81c-0ad3-48d0-9b7d-a6de543b3783 for http://katarzynakobiela.pl on desktop
+INFO - Accessed dashboard
+2025-03-26 16:56:45,778 - INFO -  * Debugger PIN: 100-909-167
+2025-03-26 16:56:45,756 - WARNING -  * Debugger is active!
+INFO - Accessed dashboard
+2025-03-26 16:50:43,086 - INFO - 127.0.0.1 - - [26/Mar/2025 16:50:43] "[32mPOST /login HTTP/1.1[0m" 302 -
+2025-03-26 16:50:38,795 - INFO - 127.0.0.1 - - [26/Mar/2025 16:50:38] "GET /static/images/placeholder.png HTTP/1.1" 200 -
+2025-03-26 16:50:38,778 - INFO - 127.0.0.1 - - [26/Mar/2025 16:50:38] "[36mGET /static/styles/main.css HTTP/1.1[0m" 304 -
+2025-03-26 16:50:38,777 - INFO - 127.0.0.1 - - [26/Mar/2025 16:50:38] "[36mGET /static/css/animations.css HTTP/1.1[0m" 304 -
+2025-03-26 16:50:38,774 - INFO - 127.0.0.1 - - [26/Mar/2025 16:50:38] "[36mGET /static/styles/style.css HTTP/1.1[0m" 304 -
+2025-03-26 16:50:38,773 - INFO - 127.0.0.1 - - [26/Mar/2025 16:50:38] "[33mGET /static/screenshots/mobile/main_page_mobile.png HTTP/1.1[0m" 404 -
+2025-03-26 16:50:38,724 - INFO - 127.0.0.1 - - [26/Mar/2025 16:50:38] "GET / HTTP/1.1" 200 -
+INFO - Application started
+2025-03-26 16:50:25,993 - INFO -  * Restarting with stat
+2025-03-26 16:50:25,993 - INFO - [33mPress CTRL+C to quit[0m
+ * Running on http://192.168.0.23:5000
+ * Running on http://127.0.0.1:5000
+ * Running on all addresses (0.0.0.0)
+2025-03-26 16:50:25,992 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+INFO - Application started
+2025-03-26 16:48:18,456 - INFO -  * Restarting with stat
+2025-03-26 16:48:18,131 - INFO -  * Detected change in 'C:\\Users\\tomas\\OneDrive\\Pulpit\\Snaply\\create_placeholder_image.py', reloading
+2025-03-26 16:43:04,029 - INFO - 127.0.0.1 - - [26/Mar/2025 16:43:04] "[36mGET /static/css/animations.css HTTP/1.1[0m" 304 -
+2025-03-26 16:43:04,016 - INFO - 127.0.0.1 - - [26/Mar/2025 16:43:04] "[36mGET /static/styles/main.css HTTP/1.1[0m" 304 -
+2025-03-26 16:43:04,002 - INFO - 127.0.0.1 - - [26/Mar/2025 16:43:04] "[36mGET /static/styles/style.css HTTP/1.1[0m" 304 -
+2025-03-26 16:43:03,922 - INFO - 127.0.0.1 - - [26/Mar/2025 16:43:03] "GET /login HTTP/1.1" 200 -
+2025-03-26 16:43:03,865 - INFO - 127.0.0.1 - - [26/Mar/2025 16:43:03] "[32mGET /logout HTTP/1.1[0m" 302 -
+2025-03-26 16:42:35,577 - INFO - 127.0.0.1 - - [26/Mar/2025 16:42:35] "[36mGET /static/styles/style.css HTTP/1.1[0m" 304 -
+2025-03-26 16:42:35,573 - INFO - 127.0.0.1 - - [26/Mar/2025 16:42:35] "[36mGET /static/css/animations.css HTTP/1.1[0m" 304 -
+2025-03-26 16:42:35,542 - INFO - 127.0.0.1 - - [26/Mar/2025 16:42:35] "[36mGET /static/styles/main.css HTTP/1.1[0m" 304 -
+2025-03-26 16:42:35,265 - INFO - 127.0.0.1 - - [26/Mar/2025 16:42:35] "[33mGET /static/images/placeholder.png HTTP/1.1[0m" 404 -
+2025-03-26 16:42:35,216 - INFO - 127.0.0.1 - - [26/Mar/2025 16:42:35] "[33mGET /static/screenshots/mobile/main_page_mobile.png HTTP/1.1[0m" 404 -
+2025-03-26 16:42:35,147 - INFO - 127.0.0.1 - - [26/Mar/2025 16:42:35] "GET / HTTP/1.1" 200 -
+INFO - Application started
+2025-03-26 16:42:28,096 - INFO -  * Restarting with stat
+2025-03-26 16:42:28,096 - INFO - [33mPress CTRL+C to quit[0m
+ * Running on http://192.168.0.23:5000
+ * Running on http://127.0.0.1:5000
+ * Running on all addresses (0.0.0.0)
+2025-03-26 16:42:28,096 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+INFO - Accessed dashboard
+2025-03-26 16:42:08,653 - INFO - 127.0.0.1 - - [26/Mar/2025 16:42:08] "[36mGET /static/css/animations.css HTTP/1.1[0m" 304 -
+2025-03-26 16:42:08,652 - INFO - 127.0.0.1 - - [26/Mar/2025 16:42:08] "[36mGET /static/styles/main.css HTTP/1.1[0m" 304 -
+2025-03-26 16:42:08,648 - INFO - 127.0.0.1 - - [26/Mar/2025 16:42:08] "[36mGET /static/styles/style.css HTTP/1.1[0m" 304 -
+2025-03-26 16:42:08,601 - INFO - 127.0.0.1 - - [26/Mar/2025 16:42:08] "GET /manage_pages HTTP/1.1" 200 -
+2025-03-26 16:42:07,828 - INFO - 127.0.0.1 - - [26/Mar/2025 16:42:07] "[36mGET /static/css/animations.css HTTP/1.1[0m" 304 -
+2025-03-26 16:42:07,826 - INFO - 127.0.0.1 - - [26/Mar/2025 16:42:07] "[36mGET /static/styles/main.css HTTP/1.1[0m" 304 -
+2025-03-26 16:42:07,821 - INFO - 127.0.0.1 - - [26/Mar/2025 16:42:07] "[36mGET /static/styles/style.css HTTP/1.1[0m" 304 -
+2025-03-26 16:42:07,779 - INFO - 127.0.0.1 - - [26/Mar/2025 16:42:07] "GET /manyScreen HTTP/1.1" 200 -
+2025-03-26 16:42:06,874 - INFO - 127.0.0.1 - - [26/Mar/2025 16:42:06] "[36mGET /static/css/animations.css HTTP/1.1[0m" 304 -
+2025-03-26 16:42:06,873 - INFO - 127.0.0.1 - - [26/Mar/2025 16:42:06] "[36mGET /static/styles/main.css HTTP/1.1[0m" 304 -
+2025-03-26 16:42:06,869 - INFO - 127.0.0.1 - - [26/Mar/2025 16:42:06] "[36mGET /static/styles/style.css HTTP/1.1[0m" 304 -
+2025-03-26 16:42:06,827 - INFO - 127.0.0.1 - - [26/Mar/2025 16:42:06] "GET /filtrScreen HTTP/1.1" 200 -
+2025-03-26 16:42:04,040 - INFO - 127.0.0.1 - - [26/Mar/2025 16:42:04] "[33mGET /static/images/placeholder.png HTTP/1.1[0m" 404 -
+2025-03-26 16:42:04,025 - INFO - 127.0.0.1 - - [26/Mar/2025 16:42:04] "[36mGET /static/css/animations.css HTTP/1.1[0m" 304 -
+2025-03-26 16:42:04,025 - INFO - 127.0.0.1 - - [26/Mar/2025 16:42:04] "[33mGET /static/screenshots/mobile/main_page_mobile.png HTTP/1.1[0m" 404 -
+2025-03-26 16:42:04,022 - INFO - 127.0.0.1 - - [26/Mar/2025 16:42:04] "[36mGET /static/styles/main.css HTTP/1.1[0m" 304 -
+2025-03-26 16:42:04,019 - INFO - 127.0.0.1 - - [26/Mar/2025 16:42:04] "[36mGET /static/styles/style.css HTTP/1.1[0m" 304 -
+2025-03-26 16:42:03,969 - INFO - 127.0.0.1 - - [26/Mar/2025 16:42:03] "GET / HTTP/1.1" 200 -
+INFO - Accessed dashboard
+2025-03-26 16:33:48,463 - INFO - 127.0.0.1 - - [26/Mar/2025 16:33:48] "[36mGET /static/css/animations.css HTTP/1.1[0m" 304 -
+2025-03-26 16:33:48,460 - INFO - 127.0.0.1 - - [26/Mar/2025 16:33:48] "[36mGET /static/styles/main.css HTTP/1.1[0m" 304 -
+2025-03-26 16:33:48,457 - INFO - 127.0.0.1 - - [26/Mar/2025 16:33:48] "[36mGET /static/styles/style.css HTTP/1.1[0m" 304 -
+2025-03-26 16:33:48,367 - INFO - 127.0.0.1 - - [26/Mar/2025 16:33:48] "GET /filtrScreen?start_date=2025-03-26&end_date=2025-03-26&domain=&device_type=mobile HTTP/1.1" 200 -
+2025-03-26 16:33:46,115 - INFO - 127.0.0.1 - - [26/Mar/2025 16:33:46] "[36mGET /static/css/animations.css HTTP/1.1[0m" 304 -
+2025-03-26 16:33:46,113 - INFO - 127.0.0.1 - - [26/Mar/2025 16:33:46] "[36mGET /static/styles/main.css HTTP/1.1[0m" 304 -
+2025-03-26 16:33:46,111 - INFO - 127.0.0.1 - - [26/Mar/2025 16:33:46] "[36mGET /static/styles/style.css HTTP/1.1[0m" 304 -
+2025-03-26 16:33:46,012 - INFO - 127.0.0.1 - - [26/Mar/2025 16:33:46] "GET /filtrScreen?start_date=2025-03-26&end_date=2025-03-26&domain=&device_type=desktop HTTP/1.1" 200 -
+2025-03-26 16:33:43,229 - INFO - 127.0.0.1 - - [26/Mar/2025 16:33:43] "[36mGET /static/styles/style.css HTTP/1.1[0m" 304 -
+2025-03-26 16:33:43,227 - INFO - 127.0.0.1 - - [26/Mar/2025 16:33:43] "[36mGET /static/styles/main.css HTTP/1.1[0m" 304 -
+2025-03-26 16:33:43,227 - INFO - 127.0.0.1 - - [26/Mar/2025 16:33:43] "[36mGET /static/css/animations.css HTTP/1.1[0m" 304 -
+2025-03-26 16:33:43,170 - INFO - 127.0.0.1 - - [26/Mar/2025 16:33:43] "GET /filtrScreen?start_date=2025-03-01&end_date=2025-03-26&domain=&device_type= HTTP/1.1" 200 -
+2025-03-26 16:33:38,756 - INFO - 127.0.0.1 - - [26/Mar/2025 16:33:38] "[36mGET /static/css/animations.css HTTP/1.1[0m" 304 -
+2025-03-26 16:33:38,754 - INFO - 127.0.0.1 - - [26/Mar/2025 16:33:38] "[36mGET /static/styles/main.css HTTP/1.1[0m" 304 -
+2025-03-26 16:33:38,753 - INFO - 127.0.0.1 - - [26/Mar/2025 16:33:38] "[36mGET /static/styles/style.css HTTP/1.1[0m" 304 -
+2025-03-26 16:33:38,689 - INFO - 127.0.0.1 - - [26/Mar/2025 16:33:38] "GET /filtrScreen HTTP/1.1" 200 -
+2025-03-26 16:33:27,247 - INFO - 127.0.0.1 - - [26/Mar/2025 16:33:27] "[36mGET /static/styles/main.css HTTP/1.1[0m" 304 -
+2025-03-26 16:33:27,245 - INFO - 127.0.0.1 - - [26/Mar/2025 16:33:27] "[36mGET /static/css/animations.css HTTP/1.1[0m" 304 -
+2025-03-26 16:33:27,242 - INFO - 127.0.0.1 - - [26/Mar/2025 16:33:27] "[36mGET /static/styles/style.css HTTP/1.1[0m" 304 -
+2025-03-26 16:33:27,204 - INFO - 127.0.0.1 - - [26/Mar/2025 16:33:27] "GET /manyScreen HTTP/1.1" 200 -
+2025-03-26 16:33:15,925 - INFO - 127.0.0.1 - - [26/Mar/2025 16:33:15] "[36mGET /static/css/animations.css HTTP/1.1[0m" 304 -
+2025-03-26 16:33:15,925 - INFO - 127.0.0.1 - - [26/Mar/2025 16:33:15] "[36mGET /static/styles/main.css HTTP/1.1[0m" 304 -
+2025-03-26 16:33:15,923 - INFO - 127.0.0.1 - - [26/Mar/2025 16:33:15] "[36mGET /static/styles/style.css HTTP/1.1[0m" 304 -
+2025-03-26 16:33:15,875 - INFO - 127.0.0.1 - - [26/Mar/2025 16:33:15] "GET /manyScreen HTTP/1.1" 200 -
+2025-03-26 16:33:12,439 - INFO - 127.0.0.1 - - [26/Mar/2025 16:33:12] "[36mGET /static/css/animations.css HTTP/1.1[0m" 304 -
+2025-03-26 16:33:12,438 - INFO - 127.0.0.1 - - [26/Mar/2025 16:33:12] "[36mGET /static/styles/style.css HTTP/1.1[0m" 304 -
+2025-03-26 16:33:12,437 - INFO - 127.0.0.1 - - [26/Mar/2025 16:33:12] "[36mGET /static/styles/main.css HTTP/1.1[0m" 304 -
+2025-03-26 16:33:12,401 - INFO - 127.0.0.1 - - [26/Mar/2025 16:33:12] "GET /manyScreen HTTP/1.1" 200 -
+2025-03-26 16:33:11,894 - INFO - 127.0.0.1 - - [26/Mar/2025 16:33:11] "[36mGET /static/css/animations.css HTTP/1.1[0m" 304 -
+2025-03-26 16:33:11,892 - INFO - 127.0.0.1 - - [26/Mar/2025 16:33:11] "[36mGET /static/styles/main.css HTTP/1.1[0m" 304 -
+2025-03-26 16:33:11,886 - INFO - 127.0.0.1 - - [26/Mar/2025 16:33:11] "[36mGET /static/styles/style.css HTTP/1.1[0m" 304 -
+2025-03-26 16:33:11,835 - INFO - 127.0.0.1 - - [26/Mar/2025 16:33:11] "GET /filtrScreen HTTP/1.1" 200 -
+2025-03-26 16:33:06,857 - INFO - 127.0.0.1 - - [26/Mar/2025 16:33:06] "[36mGET /static/css/animations.css HTTP/1.1[0m" 304 -
+2025-03-26 16:33:06,855 - INFO - 127.0.0.1 - - [26/Mar/2025 16:33:06] "[36mGET /static/styles/main.css HTTP/1.1[0m" 304 -
+2025-03-26 16:33:06,852 - INFO - 127.0.0.1 - - [26/Mar/2025 16:33:06] "[36mGET /static/styles/style.css HTTP/1.1[0m" 304 -
+2025-03-26 16:33:06,809 - INFO - 127.0.0.1 - - [26/Mar/2025 16:33:06] "GET /manage_pages HTTP/1.1" 200 -
+2025-03-26 16:33:05,956 - INFO - 127.0.0.1 - - [26/Mar/2025 16:33:05] "[36mGET /static/css/animations.css HTTP/1.1[0m" 304 -
+2025-03-26 16:33:05,955 - INFO - 127.0.0.1 - - [26/Mar/2025 16:33:05] "[36mGET /static/styles/main.css HTTP/1.1[0m" 304 -
+2025-03-26 16:33:05,950 - INFO - 127.0.0.1 - - [26/Mar/2025 16:33:05] "[36mGET /static/styles/style.css HTTP/1.1[0m" 304 -
+2025-03-26 16:33:05,899 - INFO - 127.0.0.1 - - [26/Mar/2025 16:33:05] "GET /manyScreen HTTP/1.1" 200 -
+2025-03-26 16:33:04,532 - INFO - 127.0.0.1 - - [26/Mar/2025 16:33:04] "[36mGET /static/css/animations.css HTTP/1.1[0m" 304 -
+2025-03-26 16:33:04,529 - INFO - 127.0.0.1 - - [26/Mar/2025 16:33:04] "[36mGET /static/styles/main.css HTTP/1.1[0m" 304 -
+2025-03-26 16:33:04,526 - INFO - 127.0.0.1 - - [26/Mar/2025 16:33:04] "[36mGET /static/styles/style.css HTTP/1.1[0m" 304 -
+2025-03-26 16:33:04,481 - INFO - 127.0.0.1 - - [26/Mar/2025 16:33:04] "GET /filtrScreen HTTP/1.1" 200 -
+2025-03-26 16:33:01,154 - INFO - 127.0.0.1 - - [26/Mar/2025 16:33:01] "[36mGET /static/css/animations.css HTTP/1.1[0m" 304 -
+2025-03-26 16:33:01,152 - INFO - 127.0.0.1 - - [26/Mar/2025 16:33:01] "[36mGET /static/styles/main.css HTTP/1.1[0m" 304 -
+2025-03-26 16:33:01,147 - INFO - 127.0.0.1 - - [26/Mar/2025 16:33:01] "[36mGET /static/styles/style.css HTTP/1.1[0m" 304 -
+2025-03-26 16:33:01,099 - INFO - 127.0.0.1 - - [26/Mar/2025 16:33:01] "GET /manyScreen HTTP/1.1" 200 -
+2025-03-26 16:32:53,104 - INFO - 127.0.0.1 - - [26/Mar/2025 16:32:53] "[36mGET /static/css/animations.css HTTP/1.1[0m" 304 -
+2025-03-26 16:32:53,101 - INFO - 127.0.0.1 - - [26/Mar/2025 16:32:53] "[36mGET /static/styles/style.css HTTP/1.1[0m" 304 -
+2025-03-26 16:32:53,101 - INFO - 127.0.0.1 - - [26/Mar/2025 16:32:53] "[36mGET /static/styles/main.css HTTP/1.1[0m" 304 -
+2025-03-26 16:32:53,038 - INFO - 127.0.0.1 - - [26/Mar/2025 16:32:53] "POST /manage_pages HTTP/1.1" 200 -
+2025-03-26 16:32:12,038 - INFO - 127.0.0.1 - - [26/Mar/2025 16:32:12] "[36mGET /static/css/animations.css HTTP/1.1[0m" 304 -
+2025-03-26 16:32:12,036 - INFO - 127.0.0.1 - - [26/Mar/2025 16:32:12] "[36mGET /static/styles/main.css HTTP/1.1[0m" 304 -
+2025-03-26 16:32:12,035 - INFO - 127.0.0.1 - - [26/Mar/2025 16:32:12] "[36mGET /static/styles/style.css HTTP/1.1[0m" 304 -
+2025-03-26 16:32:11,966 - INFO - 127.0.0.1 - - [26/Mar/2025 16:32:11] "POST /manage_pages HTTP/1.1" 200 -
+2025-03-26 16:32:07,151 - INFO - 127.0.0.1 - - [26/Mar/2025 16:32:07] "[36mGET /static/css/animations.css HTTP/1.1[0m" 304 -
+2025-03-26 16:32:07,150 - INFO - 127.0.0.1 - - [26/Mar/2025 16:32:07] "[36mGET /static/styles/main.css HTTP/1.1[0m" 304 -
+2025-03-26 16:32:07,137 - INFO - 127.0.0.1 - - [26/Mar/2025 16:32:07] "[36mGET /static/styles/style.css HTTP/1.1[0m" 304 -
+2025-03-26 16:32:07,108 - INFO - 127.0.0.1 - - [26/Mar/2025 16:32:07] "POST /manage_pages HTTP/1.1" 200 -
+2025-03-26 16:31:57,370 - INFO - 127.0.0.1 - - [26/Mar/2025 16:31:57] "[36mGET /static/styles/main.css HTTP/1.1[0m" 304 -
+2025-03-26 16:31:57,370 - INFO - 127.0.0.1 - - [26/Mar/2025 16:31:57] "[36mGET /static/css/animations.css HTTP/1.1[0m" 304 -
+2025-03-26 16:31:57,369 - INFO - 127.0.0.1 - - [26/Mar/2025 16:31:57] "[36mGET /static/styles/style.css HTTP/1.1[0m" 304 -
+2025-03-26 16:31:57,329 - INFO - 127.0.0.1 - - [26/Mar/2025 16:31:57] "POST /manage_pages HTTP/1.1" 200 -
+2025-03-26 16:31:53,324 - INFO - 127.0.0.1 - - [26/Mar/2025 16:31:53] "[36mGET /static/styles/main.css HTTP/1.1[0m" 304 -
+2025-03-26 16:31:53,324 - INFO - 127.0.0.1 - - [26/Mar/2025 16:31:53] "[36mGET /static/css/animations.css HTTP/1.1[0m" 304 -
+2025-03-26 16:31:53,322 - INFO - 127.0.0.1 - - [26/Mar/2025 16:31:53] "[36mGET /static/styles/style.css HTTP/1.1[0m" 304 -
+2025-03-26 16:31:53,240 - INFO - 127.0.0.1 - - [26/Mar/2025 16:31:53] "GET /manage_pages HTTP/1.1" 200 -
+2025-03-26 16:31:51,895 - INFO - 127.0.0.1 - - [26/Mar/2025 16:31:51] "[36mGET /static/css/animations.css HTTP/1.1[0m" 304 -
+2025-03-26 16:31:51,893 - INFO - 127.0.0.1 - - [26/Mar/2025 16:31:51] "[36mGET /static/styles/main.css HTTP/1.1[0m" 304 -
+2025-03-26 16:31:51,889 - INFO - 127.0.0.1 - - [26/Mar/2025 16:31:51] "[36mGET /static/styles/style.css HTTP/1.1[0m" 304 -
+2025-03-26 16:31:51,837 - INFO - 127.0.0.1 - - [26/Mar/2025 16:31:51] "GET /manyScreen HTTP/1.1" 200 -
+2025-03-26 16:31:50,500 - INFO - 127.0.0.1 - - [26/Mar/2025 16:31:50] "[36mGET /static/css/animations.css HTTP/1.1[0m" 304 -
+2025-03-26 16:31:50,498 - INFO - 127.0.0.1 - - [26/Mar/2025 16:31:50] "[36mGET /static/styles/main.css HTTP/1.1[0m" 304 -
+2025-03-26 16:31:50,497 - INFO - 127.0.0.1 - - [26/Mar/2025 16:31:50] "[36mGET /static/styles/style.css HTTP/1.1[0m" 304 -
+2025-03-26 16:31:50,415 - INFO - 127.0.0.1 - - [26/Mar/2025 16:31:50] "GET /filtrScreen HTTP/1.1" 200 -
+2025-03-26 16:31:47,524 - INFO - 127.0.0.1 - - [26/Mar/2025 16:31:47] "[33mGET /static/images/placeholder.png HTTP/1.1[0m" 404 -
+2025-03-26 16:31:47,486 - INFO - 127.0.0.1 - - [26/Mar/2025 16:31:47] "[36mGET /static/css/animations.css HTTP/1.1[0m" 304 -
+2025-03-26 16:31:47,485 - INFO - 127.0.0.1 - - [26/Mar/2025 16:31:47] "[33mGET /static/screenshots/mobile/main_page_mobile.png HTTP/1.1[0m" 404 -
+2025-03-26 16:31:47,481 - INFO - 127.0.0.1 - - [26/Mar/2025 16:31:47] "[36mGET /static/styles/main.css HTTP/1.1[0m" 304 -
+2025-03-26 16:31:47,477 - INFO - 127.0.0.1 - - [26/Mar/2025 16:31:47] "[36mGET /static/styles/style.css HTTP/1.1[0m" 304 -
+2025-03-26 16:31:47,441 - INFO - 127.0.0.1 - - [26/Mar/2025 16:31:47] "GET / HTTP/1.1" 200 -
+INFO - Accessed dashboard
+2025-03-26 16:31:45,775 - INFO - 127.0.0.1 - - [26/Mar/2025 16:31:45] "[33mGET /static/images/placeholder.png HTTP/1.1[0m" 404 -
+2025-03-26 16:31:45,729 - INFO - 127.0.0.1 - - [26/Mar/2025 16:31:45] "[36mGET /static/css/animations.css HTTP/1.1[0m" 304 -
+2025-03-26 16:31:45,729 - INFO - 127.0.0.1 - - [26/Mar/2025 16:31:45] "[36mGET /static/styles/main.css HTTP/1.1[0m" 304 -
+2025-03-26 16:31:45,727 - INFO - 127.0.0.1 - - [26/Mar/2025 16:31:45] "[33mGET /static/screenshots/mobile/main_page_mobile.png HTTP/1.1[0m" 404 -
+2025-03-26 16:31:45,726 - INFO - 127.0.0.1 - - [26/Mar/2025 16:31:45] "[36mGET /static/styles/style.css HTTP/1.1[0m" 304 -
+2025-03-26 16:31:45,678 - INFO - 127.0.0.1 - - [26/Mar/2025 16:31:45] "GET / HTTP/1.1" 200 -
+INFO - Accessed dashboard
+2025-03-26 16:31:41,971 - INFO - 127.0.0.1 - - [26/Mar/2025 16:31:41] "[36mGET /static/styles/main.css HTTP/1.1[0m" 304 -
+2025-03-26 16:31:41,962 - INFO - 127.0.0.1 - - [26/Mar/2025 16:31:41] "[36mGET /static/styles/style.css HTTP/1.1[0m" 304 -
+2025-03-26 16:31:41,911 - INFO - 127.0.0.1 - - [26/Mar/2025 16:31:41] "[36mGET /static/css/animations.css HTTP/1.1[0m" 304 -
+2025-03-26 16:31:41,661 - INFO - 127.0.0.1 - - [26/Mar/2025 16:31:41] "[33mGET /static/images/placeholder.png HTTP/1.1[0m" 404 -
+2025-03-26 16:31:41,622 - INFO - 127.0.0.1 - - [26/Mar/2025 16:31:41] "[33mGET /static/screenshots/mobile/main_page_mobile.png HTTP/1.1[0m" 404 -
+2025-03-26 16:31:41,587 - INFO - 127.0.0.1 - - [26/Mar/2025 16:31:41] "GET / HTTP/1.1" 200 -
+INFO - Application started
+2025-03-26 16:31:33,773 - INFO -  * Restarting with stat
+2025-03-26 16:31:33,606 - INFO -  * Detected change in 'C:\\Users\\tomas\\OneDrive\\Pulpit\\Snaply\\app.py', reloading
+2025-03-26 16:28:47,510 - INFO - 127.0.0.1 - - [26/Mar/2025 16:28:47] "[33mGET /static/images/placeholder.png HTTP/1.1[0m" 404 -
+2025-03-26 16:28:47,499 - INFO - 127.0.0.1 - - [26/Mar/2025 16:28:47] "[36mGET /static/css/animations.css HTTP/1.1[0m" 304 -
+2025-03-26 16:28:47,498 - INFO - 127.0.0.1 - - [26/Mar/2025 16:28:47] "[36mGET /static/styles/main.css HTTP/1.1[0m" 304 -
+2025-03-26 16:28:47,497 - INFO - 127.0.0.1 - - [26/Mar/2025 16:28:47] "[33mGET /static/screenshots/mobile/main_page_mobile.png HTTP/1.1[0m" 404 -
+2025-03-26 16:28:47,493 - INFO - 127.0.0.1 - - [26/Mar/2025 16:28:47] "[36mGET /static/styles/style.css HTTP/1.1[0m" 304 -
+2025-03-26 16:28:47,440 - INFO - 127.0.0.1 - - [26/Mar/2025 16:28:47] "GET / HTTP/1.1" 200 -
+INFO - Accessed dashboard
+2025-03-26 16:28:31,783 - INFO - 127.0.0.1 - - [26/Mar/2025 16:28:31] "[36mGET /static/css/animations.css HTTP/1.1[0m" 304 -
+2025-03-26 16:28:31,782 - INFO - 127.0.0.1 - - [26/Mar/2025 16:28:31] "GET /static/styles/main.css HTTP/1.1" 200 -
+2025-03-26 16:28:31,779 - INFO - 127.0.0.1 - - [26/Mar/2025 16:28:31] "[36mGET /static/styles/style.css HTTP/1.1[0m" 304 -
+2025-03-26 16:28:31,709 - INFO - 127.0.0.1 - - [26/Mar/2025 16:28:31] "GET /manage_pages HTTP/1.1" 200 -
+2025-03-26 16:23:24,051 - INFO - 127.0.0.1 - - [26/Mar/2025 16:23:24] "[36mGET /static/css/animations.css HTTP/1.1[0m" 304 -
+2025-03-26 16:23:24,047 - INFO - 127.0.0.1 - - [26/Mar/2025 16:23:24] "[36mGET /static/styles/style.css HTTP/1.1[0m" 304 -
+2025-03-26 16:23:23,944 - INFO - 127.0.0.1 - - [26/Mar/2025 16:23:23] "GET /manage_pages HTTP/1.1" 200 -
+2025-03-26 16:23:22,898 - INFO - 127.0.0.1 - - [26/Mar/2025 16:23:22] "[36mGET /static/css/animations.css HTTP/1.1[0m" 304 -
+2025-03-26 16:23:22,897 - INFO - 127.0.0.1 - - [26/Mar/2025 16:23:22] "[36mGET /static/styles/style.css HTTP/1.1[0m" 304 -
+2025-03-26 16:23:22,834 - INFO - 127.0.0.1 - - [26/Mar/2025 16:23:22] "GET /manyScreen HTTP/1.1" 200 -
+2025-03-26 16:23:21,875 - INFO - 127.0.0.1 - - [26/Mar/2025 16:23:21] "[36mGET /static/css/animations.css HTTP/1.1[0m" 304 -
+2025-03-26 16:23:21,874 - INFO - 127.0.0.1 - - [26/Mar/2025 16:23:21] "[36mGET /static/styles/style.css HTTP/1.1[0m" 304 -
+2025-03-26 16:23:21,827 - INFO - 127.0.0.1 - - [26/Mar/2025 16:23:21] "GET /filtrScreen HTTP/1.1" 200 -
+2025-03-26 16:23:20,337 - INFO - 127.0.0.1 - - [26/Mar/2025 16:23:20] "[36mGET /static/styles/style.css HTTP/1.1[0m" 304 -
+2025-03-26 16:23:20,336 - INFO - 127.0.0.1 - - [26/Mar/2025 16:23:20] "[36mGET /static/css/animations.css HTTP/1.1[0m" 304 -
+2025-03-26 16:23:20,286 - INFO - 127.0.0.1 - - [26/Mar/2025 16:23:20] "GET /filtrScreen?start_date=2025-03-01&end_date=2025-03-26&domain=&device_type= HTTP/1.1" 200 -
+2025-03-26 16:23:15,621 - INFO - 127.0.0.1 - - [26/Mar/2025 16:23:15] "[36mGET /static/css/animations.css HTTP/1.1[0m" 304 -
+2025-03-26 16:23:15,620 - INFO - 127.0.0.1 - - [26/Mar/2025 16:23:15] "[36mGET /static/styles/style.css HTTP/1.1[0m" 304 -
+2025-03-26 16:23:15,537 - INFO - 127.0.0.1 - - [26/Mar/2025 16:23:15] "GET /filtrScreen?start_date=2025-03-26&end_date=2025-03-26&domain=&device_type=mobile HTTP/1.1" 200 -
+2025-03-26 16:23:13,041 - INFO - 127.0.0.1 - - [26/Mar/2025 16:23:13] "[36mGET /static/styles/style.css HTTP/1.1[0m" 304 -
+2025-03-26 16:23:13,040 - INFO - 127.0.0.1 - - [26/Mar/2025 16:23:13] "[36mGET /static/css/animations.css HTTP/1.1[0m" 304 -
+2025-03-26 16:23:12,917 - INFO - 127.0.0.1 - - [26/Mar/2025 16:23:12] "GET /filtrScreen?start_date=2025-03-01&end_date=2025-03-26&domain=&device_type=desktop HTTP/1.1" 200 -
+2025-03-26 16:23:06,112 - INFO - 127.0.0.1 - - [26/Mar/2025 16:23:06] "[36mGET /static/css/animations.css HTTP/1.1[0m" 304 -
+2025-03-26 16:23:06,111 - INFO - 127.0.0.1 - - [26/Mar/2025 16:23:06] "[36mGET /static/styles/style.css HTTP/1.1[0m" 304 -
+2025-03-26 16:23:06,065 - INFO - 127.0.0.1 - - [26/Mar/2025 16:23:06] "GET /filtrScreen HTTP/1.1" 200 -
+2025-03-26 16:23:04,294 - INFO - 127.0.0.1 - - [26/Mar/2025 16:23:04] "[33mGET /static/screenshots/mobile/main_page_mobile.png HTTP/1.1[0m" 404 -
+2025-03-26 16:23:04,291 - INFO - 127.0.0.1 - - [26/Mar/2025 16:23:04] "GET /api/domains HTTP/1.1" 200 -
+2025-03-26 16:23:03,889 - INFO - 127.0.0.1 - - [26/Mar/2025 16:23:03] "[36mGET /static/css/animations.css HTTP/1.1[0m" 304 -
+2025-03-26 16:23:03,887 - INFO - 127.0.0.1 - - [26/Mar/2025 16:23:03] "[36mGET /static/styles/style.css HTTP/1.1[0m" 304 -
+2025-03-26 16:23:03,886 - INFO - 127.0.0.1 - - [26/Mar/2025 16:23:03] "[33mGET /static/screenshots/mobile/main_page_mobile.png HTTP/1.1[0m" 404 -
+2025-03-26 16:23:03,834 - INFO - 127.0.0.1 - - [26/Mar/2025 16:23:03] "GET / HTTP/1.1" 200 -
+INFO - Accessed dashboard
+2025-03-26 16:22:46,999 - INFO - 127.0.0.1 - - [26/Mar/2025 16:22:46] "[33mGET /static/screenshots/mobile/main_page_mobile.png HTTP/1.1[0m" 404 -
+2025-03-26 16:22:46,993 - INFO - 127.0.0.1 - - [26/Mar/2025 16:22:46] "GET /api/domains HTTP/1.1" 200 -
+2025-03-26 16:22:46,471 - INFO - 127.0.0.1 - - [26/Mar/2025 16:22:46] "GET /static/css/animations.css HTTP/1.1" 200 -
+2025-03-26 16:22:46,438 - INFO - 127.0.0.1 - - [26/Mar/2025 16:22:46] "GET /static/styles/style.css HTTP/1.1" 200 -
+2025-03-26 16:22:46,158 - INFO - 127.0.0.1 - - [26/Mar/2025 16:22:46] "[33mGET /static/screenshots/mobile/main_page_mobile.png HTTP/1.1[0m" 404 -
+2025-03-26 16:22:46,083 - INFO - 127.0.0.1 - - [26/Mar/2025 16:22:46] "GET / HTTP/1.1" 200 -
+INFO - Application started
+2025-03-26 16:22:39,466 - INFO -  * Restarting with stat
+2025-03-26 16:22:39,328 - INFO -  * Detected change in 'C:\\Users\\tomas\\OneDrive\\Pulpit\\Snaply\\create_css_link.py', reloading
+2025-03-26 16:22:36,928 - INFO -  * Debugger PIN: 100-909-167
+2025-03-26 16:22:36,906 - WARNING -  * Debugger is active!
+INFO - Accessed dashboard
+2025-03-26 16:20:00,213 - INFO - 127.0.0.1 - - [26/Mar/2025 16:20:00] "[33mGET /static/screenshots/mobile/main_page_mobile.png HTTP/1.1[0m" 404 -
+2025-03-26 16:20:00,211 - INFO - 127.0.0.1 - - [26/Mar/2025 16:20:00] "GET /api/domains HTTP/1.1" 200 -
+2025-03-26 16:19:59,865 - INFO - 127.0.0.1 - - [26/Mar/2025 16:19:59] "[36mGET /static/css/animations.css HTTP/1.1[0m" 304 -
+2025-03-26 16:19:59,863 - INFO - 127.0.0.1 - - [26/Mar/2025 16:19:59] "[33mGET /static/styles/main.css HTTP/1.1[0m" 404 -
+2025-03-26 16:19:59,862 - INFO - 127.0.0.1 - - [26/Mar/2025 16:19:59] "[33mGET /static/screenshots/mobile/main_page_mobile.png HTTP/1.1[0m" 404 -
+2025-03-26 16:19:59,804 - INFO - 127.0.0.1 - - [26/Mar/2025 16:19:59] "GET / HTTP/1.1" 200 -
+INFO - Accessed dashboard
+2025-03-26 16:19:52,199 - INFO -  * Debugger PIN: 100-909-167
+2025-03-26 16:19:52,190 - WARNING -  * Debugger is active!
+INFO - Application started
+2025-03-26 16:05:47,781 - INFO - 127.0.0.1 - - [26/Mar/2025 16:05:47] "[36mGET /static/css/animations.css HTTP/1.1[0m" 304 -
+2025-03-26 16:05:47,780 - INFO - 127.0.0.1 - - [26/Mar/2025 16:05:47] "[36mGET /static/styles/main.css HTTP/1.1[0m" 304 -
+2025-03-26 16:05:47,733 - INFO - 127.0.0.1 - - [26/Mar/2025 16:05:47] "GET /manage_pages HTTP/1.1" 200 -
+2025-03-26 16:05:47,147 - INFO - 127.0.0.1 - - [26/Mar/2025 16:05:47] "[36mGET /static/css/animations.css HTTP/1.1[0m" 304 -
+2025-03-26 16:05:47,146 - INFO - 127.0.0.1 - - [26/Mar/2025 16:05:47] "[36mGET /static/styles/main.css HTTP/1.1[0m" 304 -
+2025-03-26 16:05:47,086 - INFO - 127.0.0.1 - - [26/Mar/2025 16:05:47] "GET /manyScreen HTTP/1.1" 200 -
+2025-03-26 16:05:46,464 - INFO - 127.0.0.1 - - [26/Mar/2025 16:05:46] "[36mGET /static/css/animations.css HTTP/1.1[0m" 304 -
+2025-03-26 16:05:46,463 - INFO - 127.0.0.1 - - [26/Mar/2025 16:05:46] "[36mGET /static/styles/main.css HTTP/1.1[0m" 304 -
+2025-03-26 16:05:46,388 - INFO - 127.0.0.1 - - [26/Mar/2025 16:05:46] "GET /filtrScreen HTTP/1.1" 200 -
+2025-03-26 16:05:42,796 - INFO - 127.0.0.1 - - [26/Mar/2025 16:05:42] "[33mGET /static/screenshots/mobile/main_page_mobile.png HTTP/1.1[0m" 404 -
+2025-03-26 16:05:42,794 - INFO - 127.0.0.1 - - [26/Mar/2025 16:05:42] "GET /api/domains HTTP/1.1" 200 -
+2025-03-26 16:05:42,394 - INFO - 127.0.0.1 - - [26/Mar/2025 16:05:42] "[33mGET /static/screenshots/mobile/main_page_mobile.png HTTP/1.1[0m" 404 -
+2025-03-26 16:05:42,392 - INFO - 127.0.0.1 - - [26/Mar/2025 16:05:42] "[36mGET /static/styles/main.css HTTP/1.1[0m" 304 -
+2025-03-26 16:05:42,391 - INFO - 127.0.0.1 - - [26/Mar/2025 16:05:42] "[36mGET /static/css/animations.css HTTP/1.1[0m" 304 -
+2025-03-26 16:05:42,337 - INFO - 127.0.0.1 - - [26/Mar/2025 16:05:42] "GET / HTTP/1.1" 200 -
+INFO - Application started
+2025-03-26 16:05:17,367 - INFO -  * Restarting with stat
+2025-03-26 16:05:17,161 - INFO -  * Detected change in 'C:\\Users\\tomas\\OneDrive\\Pulpit\\Snaply\\migrate_domains.py', reloading
+2025-03-26 16:03:01,279 - INFO - 127.0.0.1 - - [26/Mar/2025 16:03:01] "[36mGET /static/css/animations.css HTTP/1.1[0m" 304 -
+2025-03-26 16:03:01,278 - INFO - 127.0.0.1 - - [26/Mar/2025 16:03:01] "[36mGET /static/styles/main.css HTTP/1.1[0m" 304 -
+2025-03-26 16:03:01,203 - INFO - 127.0.0.1 - - [26/Mar/2025 16:03:01] "GET /manage_pages HTTP/1.1" 200 -
+2025-03-26 16:02:58,922 - INFO - 127.0.0.1 - - [26/Mar/2025 16:02:58] "[36mGET /static/css/animations.css HTTP/1.1[0m" 304 -
+2025-03-26 16:02:58,921 - INFO - 127.0.0.1 - - [26/Mar/2025 16:02:58] "[36mGET /static/styles/main.css HTTP/1.1[0m" 304 -
+2025-03-26 16:02:58,866 - INFO - 127.0.0.1 - - [26/Mar/2025 16:02:58] "GET /register HTTP/1.1" 200 -
+2025-03-26 16:02:45,862 - INFO - 127.0.0.1 - - [26/Mar/2025 16:02:45] "[31m[1mPOST /logs/delete HTTP/1.1[0m" 400 -
+2025-03-26 16:02:42,296 - INFO - 127.0.0.1 - - [26/Mar/2025 16:02:42] "[33mGET /static/screenshots/mobile/main_page_mobile.png HTTP/1.1[0m" 404 -
+2025-03-26 16:02:42,294 - INFO - 127.0.0.1 - - [26/Mar/2025 16:02:42] "GET /api/domains HTTP/1.1" 200 -
+2025-03-26 16:02:41,755 - INFO - 127.0.0.1 - - [26/Mar/2025 16:02:41] "[36mGET /static/css/animations.css HTTP/1.1[0m" 304 -
+2025-03-26 16:02:41,755 - INFO - 127.0.0.1 - - [26/Mar/2025 16:02:41] "[33mGET /static/screenshots/mobile/main_page_mobile.png HTTP/1.1[0m" 404 -
+2025-03-26 16:02:41,752 - INFO - 127.0.0.1 - - [26/Mar/2025 16:02:41] "[36mGET /static/styles/main.css HTTP/1.1[0m" 304 -
+2025-03-26 16:02:41,720 - INFO - 127.0.0.1 - - [26/Mar/2025 16:02:41] "GET / HTTP/1.1" 200 -
+2025-03-24 15:13:56,406 - INFO - Get LATEST chromedriver version for google-chrome
+2025-03-24 15:13:56,591 - INFO - WebDriver version 134.0.6998.165 selected
+2025-03-24 15:13:56,594 - INFO - Modern chrome version https://storage.googleapis.com/chrome-for-testing-public/134.0.6998.165/win32/chromedriver-win32.zip
+2025-03-24 15:13:56,595 - INFO - About to download new driver from https://storage.googleapis.com/chrome-for-testing-public/134.0.6998.165/win32/chromedriver-win32.zip
+2025-03-24 15:13:56,748 - INFO - Driver downloading response is 200
+2025-03-24 15:13:57,078 - INFO - Get LATEST chromedriver version for google-chrome
+2025-03-24 15:13:57,354 - INFO - Driver has been saved in cache [C:\Users\tomas\.wdm\drivers\chromedriver\win64\134.0.6998.165]
+2025-03-24 15:27:42,488 - INFO - ====== WebDriver manager ======
+2025-03-26 16:02:37,491 - INFO - 127.0.0.1 - - [26/Mar/2025 16:02:37] "GET / HTTP/1.1" 200 -
+2025-03-26 16:02:37,530 - INFO - 127.0.0.1 - - [26/Mar/2025 16:02:37] "[36mGET /static/styles/main.css HTTP/1.1[0m" 304 -
+2025-03-26 16:02:37,533 - INFO - 127.0.0.1 - - [26/Mar/2025 16:02:37] "[33mGET /static/screenshots/mobile/main_page_mobile.png HTTP/1.1[0m" 404 -
+2025-03-26 16:02:37,534 - INFO - 127.0.0.1 - - [26/Mar/2025 16:02:37] "[36mGET /static/css/animations.css HTTP/1.1[0m" 304 -
+2025-03-26 16:02:37,865 - INFO - 127.0.0.1 - - [26/Mar/2025 16:02:37] "GET /api/domains HTTP/1.1" 200 -
+2025-03-26 16:02:37,869 - INFO - 127.0.0.1 - - [26/Mar/2025 16:02:37] "[33mGET /static/screenshots/mobile/main_page_mobile.png HTTP/1.1[0m" 404 -
+2025-03-26 16:02:40,684 - INFO - 127.0.0.1 - - [26/Mar/2025 16:02:40] "POST /logs/delete HTTP/1.1" 200 -
+INFO - Accessed dashboard
+2025-03-26 16:05:20,108 - WARNING -  * Debugger is active!
+2025-03-26 16:05:20,120 - INFO -  * Debugger PIN: 100-909-167
+2025-03-26 16:05:24,045 - INFO - 127.0.0.1 - - [26/Mar/2025 16:05:24] "GET /manage_pages HTTP/1.1" 200 -
+2025-03-26 16:05:24,410 - INFO - 127.0.0.1 - - [26/Mar/2025 16:05:24] "[36mGET /static/styles/main.css HTTP/1.1[0m" 304 -
+2025-03-26 16:05:24,425 - INFO - 127.0.0.1 - - [26/Mar/2025 16:05:24] "[36mGET /static/css/animations.css HTTP/1.1[0m" 304 -
+2025-03-26 16:05:32,511 - INFO - 127.0.0.1 - - [26/Mar/2025 16:05:32] "POST /manage_pages HTTP/1.1" 200 -
+2025-03-26 16:05:32,569 - INFO - 127.0.0.1 - - [26/Mar/2025 16:05:32] "[36mGET /static/styles/main.css HTTP/1.1[0m" 304 -
+2025-03-26 16:05:32,571 - INFO - 127.0.0.1 - - [26/Mar/2025 16:05:32] "[36mGET /static/css/animations.css HTTP/1.1[0m" 304 -
+2025-03-26 16:05:38,075 - INFO - 127.0.0.1 - - [26/Mar/2025 16:05:38] "GET /manage_pages HTTP/1.1" 200 -
+2025-03-26 16:05:38,150 - INFO - 127.0.0.1 - - [26/Mar/2025 16:05:38] "[36mGET /static/styles/main.css HTTP/1.1[0m" 304 -
+2025-03-26 16:05:38,151 - INFO - 127.0.0.1 - - [26/Mar/2025 16:05:38] "[36mGET /static/css/animations.css HTTP/1.1[0m" 304 -
+2025-03-26 16:05:39,306 - INFO - 127.0.0.1 - - [26/Mar/2025 16:05:39] "GET /manyScreen HTTP/1.1" 200 -
+2025-03-26 16:05:39,368 - INFO - 127.0.0.1 - - [26/Mar/2025 16:05:39] "[36mGET /static/styles/main.css HTTP/1.1[0m" 304 -
+2025-03-26 16:05:39,372 - INFO - 127.0.0.1 - - [26/Mar/2025 16:05:39] "[36mGET /static/css/animations.css HTTP/1.1[0m" 304 -
+2025-03-26 16:05:40,694 - INFO - 127.0.0.1 - - [26/Mar/2025 16:05:40] "GET /filtrScreen HTTP/1.1" 200 -
+2025-03-26 16:05:40,746 - INFO - 127.0.0.1 - - [26/Mar/2025 16:05:40] "[36mGET /static/styles/main.css HTTP/1.1[0m" 304 -
+2025-03-26 16:05:40,747 - INFO - 127.0.0.1 - - [26/Mar/2025 16:05:40] "[36mGET /static/css/animations.css HTTP/1.1[0m" 304 -
+INFO - Accessed dashboard
+2025-03-26 16:19:50,405 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.0.23:5000
+2025-03-26 16:19:50,405 - INFO - [33mPress CTRL+C to quit[0m
+2025-03-26 16:19:50,405 - INFO -  * Restarting with stat
+INFO - Application started
+2025-03-26 16:19:55,858 - INFO - 127.0.0.1 - - [26/Mar/2025 16:19:55] "GET / HTTP/1.1" 200 -
+2025-03-26 16:19:56,002 - INFO - 127.0.0.1 - - [26/Mar/2025 16:19:56] "[33mGET /static/styles/main.css HTTP/1.1[0m" 404 -
+2025-03-26 16:19:56,011 - INFO - 127.0.0.1 - - [26/Mar/2025 16:19:56] "[33mGET /static/screenshots/mobile/main_page_mobile.png HTTP/1.1[0m" 404 -
+2025-03-26 16:19:56,197 - INFO - 127.0.0.1 - - [26/Mar/2025 16:19:56] "[36mGET /static/css/animations.css HTTP/1.1[0m" 304 -
+2025-03-26 16:19:56,719 - INFO - 127.0.0.1 - - [26/Mar/2025 16:19:56] "GET /api/domains HTTP/1.1" 200 -
+2025-03-26 16:19:56,727 - INFO - 127.0.0.1 - - [26/Mar/2025 16:19:56] "[33mGET /static/screenshots/mobile/main_page_mobile.png HTTP/1.1[0m" 404 -
+INFO - Accessed dashboard
+2025-03-26 16:20:00,869 - INFO - 127.0.0.1 - - [26/Mar/2025 16:20:00] "GET / HTTP/1.1" 200 -
+2025-03-26 16:20:00,923 - INFO - 127.0.0.1 - - [26/Mar/2025 16:20:00] "[33mGET /static/styles/main.css HTTP/1.1[0m" 404 -
+2025-03-26 16:20:00,929 - INFO - 127.0.0.1 - - [26/Mar/2025 16:20:00] "[36mGET /static/css/animations.css HTTP/1.1[0m" 304 -
+2025-03-26 16:20:00,936 - INFO - 127.0.0.1 - - [26/Mar/2025 16:20:00] "[33mGET /static/screenshots/mobile/main_page_mobile.png HTTP/1.1[0m" 404 -
+2025-03-26 16:20:01,274 - INFO - 127.0.0.1 - - [26/Mar/2025 16:20:01] "GET /api/domains HTTP/1.1" 200 -
+2025-03-26 16:20:01,277 - INFO - 127.0.0.1 - - [26/Mar/2025 16:20:01] "[33mGET /static/screenshots/mobile/main_page_mobile.png HTTP/1.1[0m" 404 -
+2025-03-26 16:20:01,535 - INFO - 127.0.0.1 - - [26/Mar/2025 16:20:01] "GET /filtrScreen HTTP/1.1" 200 -
+2025-03-26 16:20:01,611 - INFO - 127.0.0.1 - - [26/Mar/2025 16:20:01] "[33mGET /static/styles/main.css HTTP/1.1[0m" 404 -
+2025-03-26 16:20:01,614 - INFO - 127.0.0.1 - - [26/Mar/2025 16:20:01] "[36mGET /static/css/animations.css HTTP/1.1[0m" 304 -
+2025-03-26 16:20:02,088 - INFO - 127.0.0.1 - - [26/Mar/2025 16:20:02] "GET /manyScreen HTTP/1.1" 200 -
+2025-03-26 16:20:02,199 - INFO - 127.0.0.1 - - [26/Mar/2025 16:20:02] "[33mGET /static/styles/main.css HTTP/1.1[0m" 404 -
+2025-03-26 16:20:02,230 - INFO - 127.0.0.1 - - [26/Mar/2025 16:20:02] "[36mGET /static/css/animations.css HTTP/1.1[0m" 304 -
+2025-03-26 16:20:02,528 - INFO - 127.0.0.1 - - [26/Mar/2025 16:20:02] "GET /manage_pages HTTP/1.1" 200 -
+2025-03-26 16:20:02,569 - INFO - 127.0.0.1 - - [26/Mar/2025 16:20:02] "[33mGET /static/styles/main.css HTTP/1.1[0m" 404 -
+2025-03-26 16:20:02,572 - INFO - 127.0.0.1 - - [26/Mar/2025 16:20:02] "[36mGET /static/css/animations.css HTTP/1.1[0m" 304 -
+2025-03-26 16:22:34,164 - INFO -  * Detected change in 'C:\\Users\\tomas\\OneDrive\\Pulpit\\Snaply\\app.py', reloading
+2025-03-26 16:22:34,325 - INFO -  * Restarting with stat
+INFO - Application started
+2025-03-26 16:22:41,423 - WARNING -  * Debugger is active!
+2025-03-26 16:22:41,431 - INFO -  * Debugger PIN: 100-909-167
+INFO - Accessed dashboard
+2025-03-26 16:22:56,623 - INFO - 127.0.0.1 - - [26/Mar/2025 16:22:56] "GET / HTTP/1.1" 200 -
+2025-03-26 16:22:56,650 - INFO - 127.0.0.1 - - [26/Mar/2025 16:22:56] "[36mGET /static/styles/style.css HTTP/1.1[0m" 304 -
+2025-03-26 16:22:56,651 - INFO - 127.0.0.1 - - [26/Mar/2025 16:22:56] "[33mGET /static/screenshots/mobile/main_page_mobile.png HTTP/1.1[0m" 404 -
+2025-03-26 16:22:56,652 - INFO - 127.0.0.1 - - [26/Mar/2025 16:22:56] "[36mGET /static/css/animations.css HTTP/1.1[0m" 304 -
+2025-03-26 16:22:56,972 - INFO - 127.0.0.1 - - [26/Mar/2025 16:22:56] "GET /api/domains HTTP/1.1" 200 -
+2025-03-26 16:22:56,975 - INFO - 127.0.0.1 - - [26/Mar/2025 16:22:56] "[33mGET /static/screenshots/mobile/main_page_mobile.png HTTP/1.1[0m" 404 -
+2025-03-26 16:22:57,599 - INFO - 127.0.0.1 - - [26/Mar/2025 16:22:57] "GET /manage_pages HTTP/1.1" 200 -
+2025-03-26 16:22:57,713 - INFO - 127.0.0.1 - - [26/Mar/2025 16:22:57] "[36mGET /static/styles/style.css HTTP/1.1[0m" 304 -
+2025-03-26 16:22:57,715 - INFO - 127.0.0.1 - - [26/Mar/2025 16:22:57] "[36mGET /static/css/animations.css HTTP/1.1[0m" 304 -
+2025-03-26 16:22:58,913 - INFO - 127.0.0.1 - - [26/Mar/2025 16:22:58] "GET /manage_pages HTTP/1.1" 200 -
+2025-03-26 16:22:58,993 - INFO - 127.0.0.1 - - [26/Mar/2025 16:22:58] "[36mGET /static/styles/style.css HTTP/1.1[0m" 304 -
+2025-03-26 16:22:58,995 - INFO - 127.0.0.1 - - [26/Mar/2025 16:22:58] "[36mGET /static/css/animations.css HTTP/1.1[0m" 304 -
+2025-03-26 16:22:59,583 - INFO - 127.0.0.1 - - [26/Mar/2025 16:22:59] "GET /register HTTP/1.1" 200 -
+2025-03-26 16:22:59,705 - INFO - 127.0.0.1 - - [26/Mar/2025 16:22:59] "[36mGET /static/styles/style.css HTTP/1.1[0m" 304 -
+2025-03-26 16:22:59,706 - INFO - 127.0.0.1 - - [26/Mar/2025 16:22:59] "[36mGET /static/css/animations.css HTTP/1.1[0m" 304 -
+2025-03-26 16:23:00,950 - INFO - 127.0.0.1 - - [26/Mar/2025 16:23:00] "[32mGET /logout HTTP/1.1[0m" 302 -
+2025-03-26 16:23:01,012 - INFO - 127.0.0.1 - - [26/Mar/2025 16:23:01] "GET /login HTTP/1.1" 200 -
+2025-03-26 16:23:01,087 - INFO - 127.0.0.1 - - [26/Mar/2025 16:23:01] "[36mGET /static/styles/style.css HTTP/1.1[0m" 304 -
+2025-03-26 16:23:01,090 - INFO - 127.0.0.1 - - [26/Mar/2025 16:23:01] "[36mGET /static/css/animations.css HTTP/1.1[0m" 304 -
+2025-03-26 16:23:03,809 - INFO - 127.0.0.1 - - [26/Mar/2025 16:23:03] "[32mPOST /login HTTP/1.1[0m" 302 -
+INFO - Accessed dashboard
+2025-03-26 16:28:36,757 - INFO - 127.0.0.1 - - [26/Mar/2025 16:28:36] "GET / HTTP/1.1" 200 -
+2025-03-26 16:28:36,814 - INFO - 127.0.0.1 - - [26/Mar/2025 16:28:36] "[36mGET /static/styles/style.css HTTP/1.1[0m" 304 -
+2025-03-26 16:28:36,818 - INFO - 127.0.0.1 - - [26/Mar/2025 16:28:36] "[33mGET /static/screenshots/mobile/main_page_mobile.png HTTP/1.1[0m" 404 -
+2025-03-26 16:28:36,818 - INFO - 127.0.0.1 - - [26/Mar/2025 16:28:36] "[36mGET /static/styles/main.css HTTP/1.1[0m" 304 -
+2025-03-26 16:28:36,819 - INFO - 127.0.0.1 - - [26/Mar/2025 16:28:36] "[36mGET /static/css/animations.css HTTP/1.1[0m" 304 -
+2025-03-26 16:28:36,844 - INFO - 127.0.0.1 - - [26/Mar/2025 16:28:36] "[33mGET /static/images/placeholder.png HTTP/1.1[0m" 404 -
+2025-03-26 16:28:40,476 - INFO - 127.0.0.1 - - [26/Mar/2025 16:28:40] "GET /filtrScreen HTTP/1.1" 200 -
+2025-03-26 16:28:40,525 - INFO - 127.0.0.1 - - [26/Mar/2025 16:28:40] "[36mGET /static/styles/style.css HTTP/1.1[0m" 304 -
+2025-03-26 16:28:40,528 - INFO - 127.0.0.1 - - [26/Mar/2025 16:28:40] "[36mGET /static/styles/main.css HTTP/1.1[0m" 304 -
+2025-03-26 16:28:40,529 - INFO - 127.0.0.1 - - [26/Mar/2025 16:28:40] "[36mGET /static/css/animations.css HTTP/1.1[0m" 304 -
+2025-03-26 16:28:43,950 - INFO - 127.0.0.1 - - [26/Mar/2025 16:28:43] "GET /manyScreen HTTP/1.1" 200 -
+2025-03-26 16:28:44,001 - INFO - 127.0.0.1 - - [26/Mar/2025 16:28:44] "[36mGET /static/styles/style.css HTTP/1.1[0m" 304 -
+2025-03-26 16:28:44,004 - INFO - 127.0.0.1 - - [26/Mar/2025 16:28:44] "[36mGET /static/styles/main.css HTTP/1.1[0m" 304 -
+2025-03-26 16:28:44,005 - INFO - 127.0.0.1 - - [26/Mar/2025 16:28:44] "[36mGET /static/css/animations.css HTTP/1.1[0m" 304 -
+2025-03-26 16:28:45,218 - INFO - 127.0.0.1 - - [26/Mar/2025 16:28:45] "GET /manage_pages HTTP/1.1" 200 -
+2025-03-26 16:28:45,268 - INFO - 127.0.0.1 - - [26/Mar/2025 16:28:45] "[36mGET /static/styles/style.css HTTP/1.1[0m" 304 -
+2025-03-26 16:28:45,270 - INFO - 127.0.0.1 - - [26/Mar/2025 16:28:45] "[36mGET /static/styles/main.css HTTP/1.1[0m" 304 -
+2025-03-26 16:28:45,271 - INFO - 127.0.0.1 - - [26/Mar/2025 16:28:45] "[36mGET /static/css/animations.css HTTP/1.1[0m" 304 -
+INFO - Accessed dashboard
+2025-03-26 16:31:35,787 - WARNING -  * Debugger is active!
+2025-03-26 16:31:35,801 - INFO -  * Debugger PIN: 100-909-167
+INFO - Accessed dashboard
+2025-03-26 16:31:44,772 - INFO - 127.0.0.1 - - [26/Mar/2025 16:31:44] "GET / HTTP/1.1" 200 -
+2025-03-26 16:31:44,801 - INFO - 127.0.0.1 - - [26/Mar/2025 16:31:44] "[36mGET /static/styles/style.css HTTP/1.1[0m" 304 -
+2025-03-26 16:31:44,803 - INFO - 127.0.0.1 - - [26/Mar/2025 16:31:44] "[36mGET /static/styles/main.css HTTP/1.1[0m" 304 -
+2025-03-26 16:31:44,806 - INFO - 127.0.0.1 - - [26/Mar/2025 16:31:44] "[33mGET /static/screenshots/mobile/main_page_mobile.png HTTP/1.1[0m" 404 -
+2025-03-26 16:31:44,807 - INFO - 127.0.0.1 - - [26/Mar/2025 16:31:44] "[36mGET /static/css/animations.css HTTP/1.1[0m" 304 -
+2025-03-26 16:31:44,851 - INFO - 127.0.0.1 - - [26/Mar/2025 16:31:44] "[33mGET /static/images/placeholder.png HTTP/1.1[0m" 404 -
+INFO - Accessed dashboard
+2025-03-26 16:31:46,548 - INFO - 127.0.0.1 - - [26/Mar/2025 16:31:46] "GET / HTTP/1.1" 200 -
+2025-03-26 16:31:46,593 - INFO - 127.0.0.1 - - [26/Mar/2025 16:31:46] "[36mGET /static/styles/style.css HTTP/1.1[0m" 304 -
+2025-03-26 16:31:46,594 - INFO - 127.0.0.1 - - [26/Mar/2025 16:31:46] "[36mGET /static/styles/main.css HTTP/1.1[0m" 304 -
+2025-03-26 16:31:46,597 - INFO - 127.0.0.1 - - [26/Mar/2025 16:31:46] "[33mGET /static/screenshots/mobile/main_page_mobile.png HTTP/1.1[0m" 404 -
+2025-03-26 16:31:46,599 - INFO - 127.0.0.1 - - [26/Mar/2025 16:31:46] "[36mGET /static/css/animations.css HTTP/1.1[0m" 304 -
+2025-03-26 16:31:46,637 - INFO - 127.0.0.1 - - [26/Mar/2025 16:31:46] "[33mGET /static/images/placeholder.png HTTP/1.1[0m" 404 -
+INFO - Accessed dashboard
+2025-03-26 16:33:50,014 - INFO - 127.0.0.1 - - [26/Mar/2025 16:33:50] "GET / HTTP/1.1" 200 -
+2025-03-26 16:33:50,076 - INFO - 127.0.0.1 - - [26/Mar/2025 16:33:50] "[36mGET /static/styles/style.css HTTP/1.1[0m" 304 -
+2025-03-26 16:33:50,078 - INFO - 127.0.0.1 - - [26/Mar/2025 16:33:50] "[36mGET /static/styles/main.css HTTP/1.1[0m" 304 -
+2025-03-26 16:33:50,079 - INFO - 127.0.0.1 - - [26/Mar/2025 16:33:50] "[36mGET /static/css/animations.css HTTP/1.1[0m" 304 -
+2025-03-26 16:33:50,082 - INFO - 127.0.0.1 - - [26/Mar/2025 16:33:50] "[33mGET /static/screenshots/mobile/main_page_mobile.png HTTP/1.1[0m" 404 -
+2025-03-26 16:33:50,091 - INFO - 127.0.0.1 - - [26/Mar/2025 16:33:50] "[33mGET /static/images/placeholder.png HTTP/1.1[0m" 404 -
+2025-03-26 16:42:02,153 - INFO - 127.0.0.1 - - [26/Mar/2025 16:42:02] "GET /filtrScreen?start_date=2025-03-26&end_date=2025-03-26&domain=&device_type=mobile HTTP/1.1" 200 -
+2025-03-26 16:42:02,217 - INFO - 127.0.0.1 - - [26/Mar/2025 16:42:02] "[36mGET /static/styles/style.css HTTP/1.1[0m" 304 -
+2025-03-26 16:42:02,218 - INFO - 127.0.0.1 - - [26/Mar/2025 16:42:02] "[36mGET /static/styles/main.css HTTP/1.1[0m" 304 -
+2025-03-26 16:42:02,225 - INFO - 127.0.0.1 - - [26/Mar/2025 16:42:02] "[36mGET /static/css/animations.css HTTP/1.1[0m" 304 -
+INFO - Accessed dashboard
+2025-03-26 16:42:10,474 - INFO - 127.0.0.1 - - [26/Mar/2025 16:42:10] "GET / HTTP/1.1" 200 -
+2025-03-26 16:42:10,520 - INFO - 127.0.0.1 - - [26/Mar/2025 16:42:10] "[36mGET /static/styles/style.css HTTP/1.1[0m" 304 -
+2025-03-26 16:42:10,526 - INFO - 127.0.0.1 - - [26/Mar/2025 16:42:10] "[36mGET /static/styles/main.css HTTP/1.1[0m" 304 -
+2025-03-26 16:42:10,528 - INFO - 127.0.0.1 - - [26/Mar/2025 16:42:10] "[33mGET /static/screenshots/mobile/main_page_mobile.png HTTP/1.1[0m" 404 -
+2025-03-26 16:42:10,529 - INFO - 127.0.0.1 - - [26/Mar/2025 16:42:10] "[36mGET /static/css/animations.css HTTP/1.1[0m" 304 -
+2025-03-26 16:42:10,560 - INFO - 127.0.0.1 - - [26/Mar/2025 16:42:10] "[33mGET /static/images/placeholder.png HTTP/1.1[0m" 404 -
+INFO - Application started
+2025-03-26 16:42:29,396 - WARNING -  * Debugger is active!
+2025-03-26 16:42:29,403 - INFO -  * Debugger PIN: 100-909-167
+INFO - Accessed dashboard
+2025-03-26 16:48:20,935 - WARNING -  * Debugger is active!
+2025-03-26 16:48:20,949 - INFO -  * Debugger PIN: 100-909-167
+2025-03-26 16:48:24,461 - INFO -  * Detected change in 'C:\\Users\\tomas\\OneDrive\\Pulpit\\Snaply\\app.py', reloading
+2025-03-26 16:48:24,623 - INFO -  * Restarting with stat
+INFO - Application started
+2025-03-26 16:50:27,527 - WARNING -  * Debugger is active!
+2025-03-26 16:50:27,537 - INFO -  * Debugger PIN: 100-909-167
+2025-03-26 16:50:30,984 - INFO - 127.0.0.1 - - [26/Mar/2025 16:50:30] "[32mGET / HTTP/1.1[0m" 302 -
+2025-03-26 16:50:31,037 - INFO - 127.0.0.1 - - [26/Mar/2025 16:50:31] "GET /login?next=http://127.0.0.1:5000/ HTTP/1.1" 200 -
+2025-03-26 16:50:31,528 - INFO - 127.0.0.1 - - [26/Mar/2025 16:50:31] "[36mGET /static/css/animations.css HTTP/1.1[0m" 304 -
+2025-03-26 16:50:31,557 - INFO - 127.0.0.1 - - [26/Mar/2025 16:50:31] "[36mGET /static/styles/style.css HTTP/1.1[0m" 304 -
+2025-03-26 16:50:31,569 - INFO - 127.0.0.1 - - [26/Mar/2025 16:50:31] "[36mGET /static/styles/main.css HTTP/1.1[0m" 304 -
+2025-03-26 16:50:38,678 - INFO - 127.0.0.1 - - [26/Mar/2025 16:50:38] "[32mPOST /login HTTP/1.1[0m" 302 -
+INFO - Accessed dashboard
+2025-03-26 16:50:43,180 - INFO - 127.0.0.1 - - [26/Mar/2025 16:50:43] "GET / HTTP/1.1" 200 -
+2025-03-26 16:50:43,287 - INFO - 127.0.0.1 - - [26/Mar/2025 16:50:43] "[36mGET /static/styles/style.css HTTP/1.1[0m" 304 -
+2025-03-26 16:50:43,291 - INFO - 127.0.0.1 - - [26/Mar/2025 16:50:43] "[36mGET /static/styles/main.css HTTP/1.1[0m" 304 -
+2025-03-26 16:50:43,295 - INFO - 127.0.0.1 - - [26/Mar/2025 16:50:43] "[33mGET /static/screenshots/mobile/main_page_mobile.png HTTP/1.1[0m" 404 -
+2025-03-26 16:50:43,298 - INFO - 127.0.0.1 - - [26/Mar/2025 16:50:43] "[36mGET /static/css/animations.css HTTP/1.1[0m" 304 -
+2025-03-26 16:50:43,310 - INFO - 127.0.0.1 - - [26/Mar/2025 16:50:43] "[36mGET /static/images/placeholder.png HTTP/1.1[0m" 304 -
+2025-03-26 16:50:55,523 - INFO - 127.0.0.1 - - [26/Mar/2025 16:50:55] "[33mGET /Gallery HTTP/1.1[0m" 404 -
+2025-03-26 16:56:42,304 - INFO -  * Detected change in 'C:\\Users\\tomas\\OneDrive\\Pulpit\\Snaply\\create_placeholder.py', reloading
+2025-03-26 16:56:42,512 - INFO -  * Restarting with stat
+INFO - Application started
+2025-03-26 16:56:48,858 - INFO - 127.0.0.1 - - [26/Mar/2025 16:56:48] "GET / HTTP/1.1" 200 -
+2025-03-26 16:56:48,983 - INFO - 127.0.0.1 - - [26/Mar/2025 16:56:48] "[33mGET /static/screenshots/mobile/main_page_mobile.png HTTP/1.1[0m" 404 -
+2025-03-26 16:56:49,316 - INFO - 127.0.0.1 - - [26/Mar/2025 16:56:49] "[36mGET /static/styles/style.css HTTP/1.1[0m" 304 -
+2025-03-26 16:56:49,486 - INFO - 127.0.0.1 - - [26/Mar/2025 16:56:49] "[36mGET /static/styles/main.css HTTP/1.1[0m" 304 -
+2025-03-26 16:56:49,521 - INFO - 127.0.0.1 - - [26/Mar/2025 16:56:49] "[36mGET /static/css/animations.css HTTP/1.1[0m" 304 -
+2025-03-26 16:56:49,566 - INFO - 127.0.0.1 - - [26/Mar/2025 16:56:49] "[36mGET /static/images/placeholder.png HTTP/1.1[0m" 304 -
+INFO - Starting screenshot task for http://katarzynakobiela.pl on desktop
+2025-03-26 16:57:07,273 - INFO - 127.0.0.1 - - [26/Mar/2025 16:57:07] "[35m[1mPOST /zrobscreen HTTP/1.1[0m" 202 -
+2025-03-26 16:57:07,280 - INFO - ====== WebDriver manager ======
+2025-03-26 16:57:10,618 - INFO - Get LATEST chromedriver version for google-chrome
+2025-03-26 16:57:10,915 - INFO - Get LATEST chromedriver version for google-chrome
+2025-03-26 16:57:11,196 - INFO - Get LATEST chromedriver version for google-chrome
+2025-03-26 16:57:11,792 - INFO - WebDriver version 134.0.6998.165 selected
+2025-03-26 16:57:11,795 - INFO - Modern chrome version https://storage.googleapis.com/chrome-for-testing-public/134.0.6998.165/win32/chromedriver-win32.zip
+2025-03-26 16:57:11,795 - INFO - About to download new driver from https://storage.googleapis.com/chrome-for-testing-public/134.0.6998.165/win32/chromedriver-win32.zip
+2025-03-26 16:57:11,948 - INFO - Driver downloading response is 200
+2025-03-26 16:57:12,618 - INFO - Get LATEST chromedriver version for google-chrome
+2025-03-26 16:57:13,005 - INFO - Driver has been saved in cache [C:\Users\tomas\.wdm\drivers\chromedriver\win64\134.0.6998.165]
+2025-03-26 16:57:32,456 - INFO - Skipping link (external domain): https://instagram.com/katarzynakobiela_stylist
+2025-03-26 16:57:32,473 - INFO - Skipping mailto link: mailto:kasiakobiela.kk@gmail.com
+2025-03-26 16:57:32,473 - INFO - Found 7 links on page http://katarzynakobiela.pl
+2025-03-26 16:58:22,573 - INFO - 127.0.0.1 - - [26/Mar/2025 16:58:22] "GET /manage_pages HTTP/1.1" 200 -
+2025-03-26 16:58:22,629 - INFO - 127.0.0.1 - - [26/Mar/2025 16:58:22] "[36mGET /static/styles/style.css HTTP/1.1[0m" 304 -
+2025-03-26 16:58:22,632 - INFO - 127.0.0.1 - - [26/Mar/2025 16:58:22] "[36mGET /static/styles/main.css HTTP/1.1[0m" 304 -
+2025-03-26 16:58:22,639 - INFO - 127.0.0.1 - - [26/Mar/2025 16:58:22] "[36mGET /static/css/animations.css HTTP/1.1[0m" 304 -
+2025-03-26 16:58:25,362 - INFO - 127.0.0.1 - - [26/Mar/2025 16:58:25] "GET /manyScreen HTTP/1.1" 200 -
+2025-03-26 16:58:25,405 - INFO - 127.0.0.1 - - [26/Mar/2025 16:58:25] "[36mGET /static/styles/main.css HTTP/1.1[0m" 304 -
+2025-03-26 16:58:25,406 - INFO - 127.0.0.1 - - [26/Mar/2025 16:58:25] "[36mGET /static/styles/style.css HTTP/1.1[0m" 304 -
+2025-03-26 16:58:25,407 - INFO - 127.0.0.1 - - [26/Mar/2025 16:58:25] "[36mGET /static/css/animations.css HTTP/1.1[0m" 304 -
+2025-03-26 16:58:27,653 - INFO - 127.0.0.1 - - [26/Mar/2025 16:58:27] "GET /filtrScreen HTTP/1.1" 200 -
+2025-03-26 16:58:27,695 - INFO - 127.0.0.1 - - [26/Mar/2025 16:58:27] "[36mGET /static/styles/style.css HTTP/1.1[0m" 304 -
+2025-03-26 16:58:27,699 - INFO - 127.0.0.1 - - [26/Mar/2025 16:58:27] "[36mGET /static/styles/main.css HTTP/1.1[0m" 304 -
+2025-03-26 16:58:27,701 - INFO - 127.0.0.1 - - [26/Mar/2025 16:58:27] "[36mGET /static/css/animations.css HTTP/1.1[0m" 304 -
+2025-03-26 16:58:30,199 - INFO - Screenshot search - Parameters: start_date=2025-03-26, end_date=2025-03-26, domain=, device_type=
+2025-03-26 16:58:30,211 - INFO - Screenshot search - Found 5 results
+2025-03-26 16:58:30,212 - INFO - 127.0.0.1 - - [26/Mar/2025 16:58:30] "POST /api/search_screenshots HTTP/1.1" 200 -
+2025-03-26 16:58:30,239 - INFO - 127.0.0.1 - - [26/Mar/2025 16:58:30] "GET /static/screenshots/katarzynakobiela.pl/desktop/main_page_desktop.png HTTP/1.1" 200 -
+2025-03-26 16:58:30,281 - INFO - 127.0.0.1 - - [26/Mar/2025 16:58:30] "GET /static/screenshots/katarzynakobiela.pl/desktop/screen_1_desktop.png HTTP/1.1" 200 -
+2025-03-26 16:58:30,285 - INFO - 127.0.0.1 - - [26/Mar/2025 16:58:30] "GET /static/screenshots/katarzynakobiela.pl/desktop/screen_2_desktop.png HTTP/1.1" 200 -
+2025-03-26 16:58:30,295 - INFO - 127.0.0.1 - - [26/Mar/2025 16:58:30] "GET /static/screenshots/katarzynakobiela.pl/desktop/screen_3_desktop.png HTTP/1.1" 200 -
+2025-03-26 16:58:30,296 - INFO - 127.0.0.1 - - [26/Mar/2025 16:58:30] "GET /static/screenshots/katarzynakobiela.pl/desktop/screen_4_desktop.png HTTP/1.1" 200 -
+2025-03-26 16:58:35,733 - INFO - 127.0.0.1 - - [26/Mar/2025 16:58:35] "[36mGET /static/screenshots/katarzynakobiela.pl/desktop/main_page_desktop.png HTTP/1.1[0m" 304 -
+INFO - Accessed dashboard
+INFO - User admin initiated screenshots task eaec0dc2-5b25-4fb6-8408-85a7539ab9c9 for http://katarzynakobiela.pl on mobile
+2025-03-26 16:59:13,740 - INFO - 127.0.0.1 - - [26/Mar/2025 16:59:13] "GET / HTTP/1.1" 200 -
+2025-03-26 16:59:13,792 - INFO - 127.0.0.1 - - [26/Mar/2025 16:59:13] "[36mGET /static/styles/style.css HTTP/1.1[0m" 304 -
+2025-03-26 16:59:13,799 - INFO - 127.0.0.1 - - [26/Mar/2025 16:59:13] "[36mGET /static/styles/main.css HTTP/1.1[0m" 304 -
+2025-03-26 16:59:13,802 - INFO - 127.0.0.1 - - [26/Mar/2025 16:59:13] "[33mGET /static/screenshots/mobile/main_page_mobile.png HTTP/1.1[0m" 404 -
+2025-03-26 16:59:13,803 - INFO - 127.0.0.1 - - [26/Mar/2025 16:59:13] "[36mGET /static/css/animations.css HTTP/1.1[0m" 304 -
+2025-03-26 16:59:13,812 - INFO - 127.0.0.1 - - [26/Mar/2025 16:59:13] "[36mGET /static/images/placeholder.png HTTP/1.1[0m" 304 -
+2025-03-26 16:59:30,348 - INFO - 127.0.0.1 - - [26/Mar/2025 16:59:30] "GET /manage_pages HTTP/1.1" 200 -
+2025-03-26 16:59:30,411 - INFO - 127.0.0.1 - - [26/Mar/2025 16:59:30] "[36mGET /static/styles/style.css HTTP/1.1[0m" 304 -
+2025-03-26 16:59:30,412 - INFO - 127.0.0.1 - - [26/Mar/2025 16:59:30] "[36mGET /static/styles/main.css HTTP/1.1[0m" 304 -
+2025-03-26 16:59:30,413 - INFO - 127.0.0.1 - - [26/Mar/2025 16:59:30] "[36mGET /static/css/animations.css HTTP/1.1[0m" 304 -
+2025-03-26 16:59:35,764 - INFO - 127.0.0.1 - - [26/Mar/2025 16:59:35] "GET /filtrScreen HTTP/1.1" 200 -
+2025-03-26 16:59:35,890 - INFO - 127.0.0.1 - - [26/Mar/2025 16:59:35] "[36mGET /static/styles/style.css HTTP/1.1[0m" 304 -
+2025-03-26 16:59:35,892 - INFO - 127.0.0.1 - - [26/Mar/2025 16:59:35] "[36mGET /static/styles/main.css HTTP/1.1[0m" 304 -
+2025-03-26 16:59:35,893 - INFO - 127.0.0.1 - - [26/Mar/2025 16:59:35] "[36mGET /static/css/animations.css HTTP/1.1[0m" 304 -
+2025-03-26 16:59:37,113 - INFO - 127.0.0.1 - - [26/Mar/2025 16:59:37] "GET /manyScreen HTTP/1.1" 200 -
+2025-03-26 16:59:37,168 - INFO - 127.0.0.1 - - [26/Mar/2025 16:59:37] "[36mGET /static/styles/main.css HTTP/1.1[0m" 304 -
+2025-03-26 16:59:37,169 - INFO - 127.0.0.1 - - [26/Mar/2025 16:59:37] "[36mGET /static/styles/style.css HTTP/1.1[0m" 304 -
+2025-03-26 16:59:37,170 - INFO - 127.0.0.1 - - [26/Mar/2025 16:59:37] "[36mGET /static/css/animations.css HTTP/1.1[0m" 304 -
+2025-03-26 16:59:38,102 - INFO - 127.0.0.1 - - [26/Mar/2025 16:59:38] "GET /manage_pages HTTP/1.1" 200 -
+2025-03-26 16:59:38,163 - INFO - 127.0.0.1 - - [26/Mar/2025 16:59:38] "[36mGET /static/styles/style.css HTTP/1.1[0m" 304 -
+2025-03-26 16:59:38,168 - INFO - 127.0.0.1 - - [26/Mar/2025 16:59:38] "[36mGET /static/styles/main.css HTTP/1.1[0m" 304 -
+2025-03-26 16:59:38,170 - INFO - 127.0.0.1 - - [26/Mar/2025 16:59:38] "[36mGET /static/css/animations.css HTTP/1.1[0m" 304 -
+2025-03-26 16:59:47,235 - INFO - 127.0.0.1 - - [26/Mar/2025 16:59:47] "GET /manyScreen HTTP/1.1" 200 -
+2025-03-26 16:59:47,278 - INFO - 127.0.0.1 - - [26/Mar/2025 16:59:47] "[36mGET /static/styles/main.css HTTP/1.1[0m" 304 -
+2025-03-26 16:59:47,280 - INFO - 127.0.0.1 - - [26/Mar/2025 16:59:47] "[36mGET /static/styles/style.css HTTP/1.1[0m" 304 -
+2025-03-26 16:59:47,282 - INFO - 127.0.0.1 - - [26/Mar/2025 16:59:47] "[36mGET /static/css/animations.css HTTP/1.1[0m" 304 -
+2025-03-26 16:59:48,315 - INFO - 127.0.0.1 - - [26/Mar/2025 16:59:48] "GET /filtrScreen HTTP/1.1" 200 -
+2025-03-26 16:59:48,391 - INFO - 127.0.0.1 - - [26/Mar/2025 16:59:48] "[36mGET /static/styles/main.css HTTP/1.1[0m" 304 -
+2025-03-26 16:59:48,392 - INFO - 127.0.0.1 - - [26/Mar/2025 16:59:48] "[36mGET /static/styles/style.css HTTP/1.1[0m" 304 -
+2025-03-26 16:59:48,393 - INFO - 127.0.0.1 - - [26/Mar/2025 16:59:48] "[36mGET /static/css/animations.css HTTP/1.1[0m" 304 -
+INFO - Accessed dashboard
+2025-03-26 16:59:52,320 - INFO - 127.0.0.1 - - [26/Mar/2025 16:59:52] "GET / HTTP/1.1" 200 -
+2025-03-26 16:59:52,356 - INFO - 127.0.0.1 - - [26/Mar/2025 16:59:52] "[36mGET /static/styles/style.css HTTP/1.1[0m" 304 -
+2025-03-26 16:59:52,357 - INFO - 127.0.0.1 - - [26/Mar/2025 16:59:52] "[36mGET /static/styles/main.css HTTP/1.1[0m" 304 -
+2025-03-26 16:59:52,360 - INFO - 127.0.0.1 - - [26/Mar/2025 16:59:52] "[33mGET /static/screenshots/mobile/main_page_mobile.png HTTP/1.1[0m" 404 -
+2025-03-26 16:59:52,361 - INFO - 127.0.0.1 - - [26/Mar/2025 16:59:52] "[36mGET /static/css/animations.css HTTP/1.1[0m" 304 -
+2025-03-26 16:59:52,414 - INFO - 127.0.0.1 - - [26/Mar/2025 16:59:52] "[36mGET /static/images/placeholder.png HTTP/1.1[0m" 304 -
+INFO - Accessed dashboard
+2025-03-26 16:59:59,411 - INFO - 127.0.0.1 - - [26/Mar/2025 16:59:59] "GET / HTTP/1.1" 200 -
+2025-03-26 16:59:59,462 - INFO - 127.0.0.1 - - [26/Mar/2025 16:59:59] "[36mGET /static/styles/style.css HTTP/1.1[0m" 304 -
+2025-03-26 16:59:59,464 - INFO - 127.0.0.1 - - [26/Mar/2025 16:59:59] "[36mGET /static/styles/main.css HTTP/1.1[0m" 304 -
+2025-03-26 16:59:59,469 - INFO - 127.0.0.1 - - [26/Mar/2025 16:59:59] "[36mGET /static/css/animations.css HTTP/1.1[0m" 304 -
+2025-03-26 16:59:59,470 - INFO - 127.0.0.1 - - [26/Mar/2025 16:59:59] "[33mGET /static/screenshots/mobile/main_page_mobile.png HTTP/1.1[0m" 404 -
+2025-03-26 16:59:59,479 - INFO - 127.0.0.1 - - [26/Mar/2025 16:59:59] "[36mGET /static/images/placeholder.png HTTP/1.1[0m" 304 -
+INFO - Accessed dashboard
+2025-03-26 17:01:02,803 - INFO - 127.0.0.1 - - [26/Mar/2025 17:01:02] "GET / HTTP/1.1" 200 -
+2025-03-26 17:01:02,846 - INFO - 127.0.0.1 - - [26/Mar/2025 17:01:02] "[33mGET /static/screenshots/mobile/main_page_mobile.png HTTP/1.1[0m" 404 -
+2025-03-26 17:01:02,848 - INFO - 127.0.0.1 - - [26/Mar/2025 17:01:02] "[36mGET /static/css/animations.css HTTP/1.1[0m" 304 -
+2025-03-26 17:01:02,849 - INFO - 127.0.0.1 - - [26/Mar/2025 17:01:02] "[36mGET /static/styles/main.css HTTP/1.1[0m" 304 -
+2025-03-26 17:01:02,851 - INFO - 127.0.0.1 - - [26/Mar/2025 17:01:02] "[36mGET /static/styles/style.css HTTP/1.1[0m" 304 -
+2025-03-26 17:01:02,906 - INFO - 127.0.0.1 - - [26/Mar/2025 17:01:02] "[36mGET /static/images/placeholder.png HTTP/1.1[0m" 304 -
+2025-03-26 17:01:07,096 - INFO - 127.0.0.1 - - [26/Mar/2025 17:01:07] "GET /filtrScreen HTTP/1.1" 200 -
+2025-03-26 17:01:07,159 - INFO - 127.0.0.1 - - [26/Mar/2025 17:01:07] "[36mGET /static/styles/style.css HTTP/1.1[0m" 304 -
+2025-03-26 17:01:07,160 - INFO - 127.0.0.1 - - [26/Mar/2025 17:01:07] "[36mGET /static/styles/main.css HTTP/1.1[0m" 304 -
+2025-03-26 17:01:07,161 - INFO - 127.0.0.1 - - [26/Mar/2025 17:01:07] "[36mGET /static/css/animations.css HTTP/1.1[0m" 304 -
+2025-03-26 17:01:07,854 - INFO - 127.0.0.1 - - [26/Mar/2025 17:01:07] "GET /filtrScreen HTTP/1.1" 200 -
+2025-03-26 17:01:07,888 - INFO - 127.0.0.1 - - [26/Mar/2025 17:01:07] "[36mGET /static/styles/style.css HTTP/1.1[0m" 304 -
+2025-03-26 17:01:07,888 - INFO - 127.0.0.1 - - [26/Mar/2025 17:01:07] "[36mGET /static/styles/main.css HTTP/1.1[0m" 304 -
+2025-03-26 17:01:07,890 - INFO - 127.0.0.1 - - [26/Mar/2025 17:01:07] "[36mGET /static/css/animations.css HTTP/1.1[0m" 304 -
+2025-03-26 17:01:08,359 - INFO - 127.0.0.1 - - [26/Mar/2025 17:01:08] "GET /manyScreen HTTP/1.1" 200 -
+2025-03-26 17:01:08,409 - INFO - 127.0.0.1 - - [26/Mar/2025 17:01:08] "[36mGET /static/styles/style.css HTTP/1.1[0m" 304 -
+2025-03-26 17:01:08,412 - INFO - 127.0.0.1 - - [26/Mar/2025 17:01:08] "[36mGET /static/styles/main.css HTTP/1.1[0m" 304 -
+2025-03-26 17:01:08,413 - INFO - 127.0.0.1 - - [26/Mar/2025 17:01:08] "[36mGET /static/css/animations.css HTTP/1.1[0m" 304 -
+2025-03-26 17:01:09,878 - INFO - 127.0.0.1 - - [26/Mar/2025 17:01:09] "GET /manage_pages HTTP/1.1" 200 -
+2025-03-26 17:01:09,933 - INFO - 127.0.0.1 - - [26/Mar/2025 17:01:09] "[36mGET /static/styles/style.css HTTP/1.1[0m" 304 -
+2025-03-26 17:01:09,934 - INFO - 127.0.0.1 - - [26/Mar/2025 17:01:09] "[36mGET /static/styles/main.css HTTP/1.1[0m" 304 -
+2025-03-26 17:01:09,935 - INFO - 127.0.0.1 - - [26/Mar/2025 17:01:09] "[36mGET /static/css/animations.css HTTP/1.1[0m" 304 -
+2025-03-26 17:01:24,856 - INFO - 127.0.0.1 - - [26/Mar/2025 17:01:24] "GET /manyScreen HTTP/1.1" 200 -
+2025-03-26 17:01:24,914 - INFO - 127.0.0.1 - - [26/Mar/2025 17:01:24] "[36mGET /static/styles/style.css HTTP/1.1[0m" 304 -
+2025-03-26 17:01:24,917 - INFO - 127.0.0.1 - - [26/Mar/2025 17:01:24] "[36mGET /static/styles/main.css HTTP/1.1[0m" 304 -
+2025-03-26 17:01:24,921 - INFO - 127.0.0.1 - - [26/Mar/2025 17:01:24] "[36mGET /static/css/animations.css HTTP/1.1[0m" 304 -
+2025-03-26 17:01:26,205 - INFO - 127.0.0.1 - - [26/Mar/2025 17:01:26] "GET /filtrScreen HTTP/1.1" 200 -
+2025-03-26 17:01:26,260 - INFO - 127.0.0.1 - - [26/Mar/2025 17:01:26] "[36mGET /static/styles/style.css HTTP/1.1[0m" 304 -
+2025-03-26 17:01:26,264 - INFO - 127.0.0.1 - - [26/Mar/2025 17:01:26] "[36mGET /static/styles/main.css HTTP/1.1[0m" 304 -
+2025-03-26 17:01:26,269 - INFO - 127.0.0.1 - - [26/Mar/2025 17:01:26] "[36mGET /static/css/animations.css HTTP/1.1[0m" 304 -
+2025-03-26 17:01:29,514 - INFO - Screenshot search - Parameters: start_date=2025-03-26, end_date=2025-03-26, domain=, device_type=mobile
+2025-03-26 17:01:29,543 - INFO - Screenshot search - Found 8 results
+2025-03-26 17:01:29,544 - INFO - 127.0.0.1 - - [26/Mar/2025 17:01:29] "POST /api/search_screenshots HTTP/1.1" 200 -
+2025-03-26 17:01:29,604 - INFO - 127.0.0.1 - - [26/Mar/2025 17:01:29] "GET /static/screenshots/katarzynakobiela.pl/mobile/screen_1_mobile.png HTTP/1.1" 200 -
+2025-03-26 17:01:29,608 - INFO - 127.0.0.1 - - [26/Mar/2025 17:01:29] "GET /static/screenshots/katarzynakobiela.pl/mobile/main_page_mobile.png HTTP/1.1" 200 -
+2025-03-26 17:01:29,609 - INFO - 127.0.0.1 - - [26/Mar/2025 17:01:29] "GET /static/screenshots/katarzynakobiela.pl/mobile/screen_2_mobile.png HTTP/1.1" 200 -
+2025-03-26 17:01:29,613 - INFO - 127.0.0.1 - - [26/Mar/2025 17:01:29] "GET /static/screenshots/katarzynakobiela.pl/mobile/screen_4_mobile.png HTTP/1.1" 200 -
+2025-03-26 17:01:29,614 - INFO - 127.0.0.1 - - [26/Mar/2025 17:01:29] "GET /static/screenshots/katarzynakobiela.pl/mobile/screen_5_mobile.png HTTP/1.1" 200 -
+2025-03-26 17:01:29,614 - INFO - 127.0.0.1 - - [26/Mar/2025 17:01:29] "GET /static/screenshots/katarzynakobiela.pl/mobile/screen_3_mobile.png HTTP/1.1" 200 -
+2025-03-26 17:01:29,664 - INFO - 127.0.0.1 - - [26/Mar/2025 17:01:29] "GET /static/screenshots/katarzynakobiela.pl/mobile/screen_7_mobile.png HTTP/1.1" 200 -
+2025-03-26 17:01:29,665 - INFO - 127.0.0.1 - - [26/Mar/2025 17:01:29] "GET /static/screenshots/katarzynakobiela.pl/mobile/screen_6_mobile.png HTTP/1.1" 200 -
+2025-03-26 17:01:33,159 - INFO - 127.0.0.1 - - [26/Mar/2025 17:01:33] "GET /download/katarzynakobiela.pl/mobile/screen_6_mobile.png HTTP/1.1" 200 -
+2025-03-26 17:01:41,410 - INFO - 127.0.0.1 - - [26/Mar/2025 17:01:41] "POST /screenshots/delete?screenshot=katarzynakobiela.pl/mobile/screen_7_mobile.png HTTP/1.1" 200 -
