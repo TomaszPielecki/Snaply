@@ -14,6 +14,15 @@ from selenium.webdriver.support import expected_conditions as EC
 from selenium.webdriver.support.ui import WebDriverWait
 from webdriver_manager.chrome import ChromeDriverManager
 
+# Import cookie consent handling from browser.py
+try:
+    from utils.browser import handle_cookie_consent_popups, wait_for_page_load
+    COOKIE_HANDLER_AVAILABLE = True
+    print("Cookie consent handler loaded successfully")
+except ImportError:
+    COOKIE_HANDLER_AVAILABLE = False
+    print("Cookie consent handler not available")
+
 # Base folder for storing screenshots
 BASE_SCREENSHOT_FOLDER = os.path.join('static', 'screenshots')
 os.makedirs(BASE_SCREENSHOT_FOLDER, exist_ok=True)
@@ -190,7 +199,52 @@ def visit_links_and_take_screenshots(url, device_type, max_links=40):
     try:
         driver.get(url)
         WebDriverWait(driver, 20).until(EC.presence_of_element_located((By.TAG_NAME, 'body')))
-        time.sleep(5)  # Wait for page to fully render
+        
+        # Handle cookie consent popups with multiple attempts and longer delays
+        if COOKIE_HANDLER_AVAILABLE:
+            logging.info("Attempting to handle cookie consent popups...")
+            wait_for_page_load(driver)
+            
+            # First attempt to handle popups
+            popup_handled = handle_cookie_consent_popups(driver)
+            
+            # Wait longer for animations to complete (increased from 1s to 3s)
+            time.sleep(3)
+            
+            # Second attempt if needed
+            if not popup_handled:
+                logging.info("Making second attempt to handle cookie consent popups...")
+                popup_handled = handle_cookie_consent_popups(driver)
+                time.sleep(2)
+            
+            # Third attempt with JavaScript fallback if still not handled
+            if not popup_handled:
+                logging.info("Making final attempt with JavaScript to remove cookie banners...")
+                try:
+                    driver.execute_script("""
+                        // Try to remove common cookie banners
+                        const banners = document.querySelectorAll('.cookie-banner, .cookie-consent, .cookies-popup, #cookieBanner, #cookieConsent');
+                        banners.forEach(banner => {
+                            if (banner) banner.style.display = 'none';
+                        });
+                        
+                        // Also remove fixed position elements that might be cookie notices
+                        document.querySelectorAll('div[style*="position: fixed"]').forEach(el => {
+                            const text = el.innerText.toLowerCase();
+                            if (text.includes('cookie') || text.includes('privacy') || text.includes('gdpr')) {
+                                el.style.display = 'none';
+                            }
+                        });
+                    """)
+                    # Extra long wait after JS removal
+                    time.sleep(4)
+                except Exception as e:
+                    logging.error(f"Error in JavaScript cookie removal: {e}")
+            
+            logging.info("Finished handling cookie popups, proceeding with screenshots")
+
+        # Wait longer for page to fully render and popups to completely disappear (increased from 3s to 5s)
+        time.sleep(5)
 
         if device_type == 'desktop':
             driver.set_window_size(1920, 1080)
@@ -222,7 +276,13 @@ def visit_links_and_take_screenshots(url, device_type, max_links=40):
             try:
                 driver.get(link)
                 WebDriverWait(driver, 20).until(EC.presence_of_element_located((By.TAG_NAME, 'body')))
-                time.sleep(5)
+                
+                # Handle cookie consent popups on each linked page if available
+                if COOKIE_HANDLER_AVAILABLE:
+                    wait_for_page_load(driver)
+                    handle_cookie_consent_popups(driver)
+                
+                time.sleep(3)
 
                 if device_type == 'desktop':
                     driver.set_window_size(1920, 1080)
